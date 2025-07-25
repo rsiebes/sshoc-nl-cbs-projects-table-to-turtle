@@ -78,5 +78,5 @@ That's it! Simple Excel-to-Turtle conversion with semantic enrichment.
 
 
 ---
-*written via prompt engineering by Ronald Siebes - UCDS group - VU Amsterdam*
+*written via prompt engineering (yes this is the future of coding!) by Ronald Siebes - UCDS group - VU Amsterdam and Gemini, Manus AI etc
 
