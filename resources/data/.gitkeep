@@ -1,0 +1,6 @@
+# This file ensures the data directory is tracked by Git
+# Place your data files here:
+# - Zotero export files (.json, .xml)
+# - CBS datasets
+# - Processed enrichment results
+
