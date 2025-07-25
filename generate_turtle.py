@@ -80,7 +80,7 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         turtle_content.append("")
         
         # Process each unique project
-        valid_triples = 0
+        valid_projects = 0
         for _, row in unique_projects.iterrows():
             project_number = row[project_col]
             start_date = row[start_date_col]
@@ -102,24 +102,33 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
             # Create URI
             project_uri = f"<https://w3id.org/odissei/ns/kg/cbs/project/{project_number}>"
             
-            # Add startDate triple if valid
+            # Build properties list
+            properties = []
             if formatted_start_date is not None:
                 start_date_literal = f'"{formatted_start_date}"^^xsd:date'
-                turtle_content.append(f"{project_uri} schema:startDate {start_date_literal} .")
-                valid_triples += 1
+                properties.append(f"   schema:startDate {start_date_literal}")
             
-            # Add endDate triple if valid
             if formatted_end_date is not None:
                 end_date_literal = f'"{formatted_end_date}"^^xsd:date'
-                turtle_content.append(f"{project_uri} schema:endDate {end_date_literal} .")
-                valid_triples += 1
+                properties.append(f"   schema:endDate {end_date_literal}")
+            
+            # Add grouped RDF statement
+            if properties:
+                turtle_content.append(f"{project_uri}")
+                for i, prop in enumerate(properties):
+                    if i == len(properties) - 1:  # Last property
+                        turtle_content.append(f"{prop} .")
+                    else:  # Not last property
+                        turtle_content.append(f"{prop} ;")
+                turtle_content.append("")  # Empty line between subjects
+                valid_projects += 1
         
         # Write to file
-        print(f"Writing {valid_triples} RDF triples to: {output_file_path}")
+        print(f"Writing {valid_projects} projects to: {output_file_path}")
         with open(output_file_path, 'w', encoding='utf-8') as f:
             f.write('\n'.join(turtle_content))
         
-        print(f"Successfully generated Turtle RDF file with {valid_triples} triples")
+        print(f"Successfully generated Turtle RDF file with {valid_projects} projects")
         return True
         
     except Exception as e:
