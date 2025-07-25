@@ -6,15 +6,15 @@ Your coding environment has been successfully set up with Git version control an
 
 ## Repository Information
 
-- **Repository URL**: https://github.com/rsiebes/sshoc-nl-zotero-cbs-enrichment
-- **Local Path**: `/home/ubuntu/projects/sshoc-nl-zotero-cbs-enrichment`
+- **Repository URL**: https://github.com/rsiebes/sshoc-nl-cbs-projects-table-to-turtle
+- **Local Path**: `/home/ubuntu/projects/sshoc-nl-cbs-projects-table-to-turtle`
 - **Authentication**: HTTPS with Personal Access Token
 - **Default Branch**: main
 
 ## Project Structure
 
 ```
-sshoc-nl-zotero-cbs-enrichment/
+sshoc-nl-cbs-projects-table-to-turtle/
 ├── .git/                    # Git repository data
 ├── .gitignore              # Python-specific ignore patterns
 ├── LICENSE                 # Project license
@@ -92,7 +92,7 @@ python3 dev_workflow.py sync -m "Your commit message"
 
 1. **Navigate to project directory**:
    ```bash
-   cd /home/ubuntu/projects/sshoc-nl-zotero-cbs-enrichment
+   cd /home/ubuntu/projects/sshoc-nl-cbs-projects-table-to-turtle
    ```
 
 2. **Install dependencies**:
