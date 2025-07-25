@@ -1,0 +1,3083 @@
+{
+  "ABF Research BV": {
+    "name": "ABF Research BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/abf_research_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "AFM, Autoriteit Financiële Markten, team Consumentengedrag": {
+    "name": "AFM, Autoriteit Financiële Markten, team Consumentengedrag",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/afm_autoriteit_financile_markten_team_consumenteng",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "AFM, Stichting Autoriteit Financiële Markten, team Risicoanalyse (EC-SRA)": {
+    "name": "AFM, Stichting Autoriteit Financiële Markten, team Risicoanalyse (EC-SRA)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/afm_stichting_autoriteit_financile_markten_team_ri",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "APE Public Economics bv": {
+    "name": "APE Public Economics bv",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ape_public_economics_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Academisch Medisch Centrum Amsterdam (AMC) - UvA": {
+    "name": "Academisch Medisch Centrum Amsterdam (AMC) - UvA",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/academisch_medisch_centrum_amsterdam_amc_uva",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Amsterdam"
+  },
+  "Academisch Medisch Centrum Amsterdam_Afdeling Klinische Epidemiologie, Biostatistiek & Bioinformatic": {
+    "name": "Academisch Medisch Centrum Amsterdam_Afdeling Klinische Epidemiologie, Biostatistiek & Bioinformatic",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/academisch_medisch_centrum_amsterdamafdeling_klini",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Academisch Medisch Centrum Amsterdam",
+    "department": "Afdeling Klinische Epidemiologie, Biostatistiek & Bioinformatic"
+  },
+  "Academisch Ziekenhuis Maastricht_Epidemiologie": {
+    "name": "Academisch Ziekenhuis Maastricht_Epidemiologie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/academisch_ziekenhuis_maastrichtepidemiologie",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Maastricht",
+    "parent_organization": "Academisch Ziekenhuis Maastricht",
+    "department": "Epidemiologie"
+  },
+  "Algemene Rekenkamer": {
+    "name": "Algemene Rekenkamer",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/algemene_rekenkamer",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Amsterdam Health & Technology Institute (AHTI)": {
+    "name": "Amsterdam Health & Technology Institute (AHTI)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/amsterdam_health_technology_institute_ahti",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research",
+    "location_hint": "Amsterdam"
+  },
+  "Andersson Elffers Felix (AEF)": {
+    "name": "Andersson Elffers Felix (AEF)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/andersson_elffers_felix_aef",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Aston University Birmingham": {
+    "name": "Aston University Birmingham",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/aston_university_birmingham",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Ateno": {
+    "name": "Ateno",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ateno",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Atlas Research B.V.": {
+    "name": "Atlas Research B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/atlas_research_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Atrivé, Team Onderzoek": {
+    "name": "Atrivé, Team Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/atriv_team_onderzoek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Barcelona Office for Health Sytems Strenghtening": {
+    "name": "Barcelona Office for Health Sytems Strenghtening",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/barcelona_office_for_health_sytems_strenghtening",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Berenschot BV": {
+    "name": "Berenschot BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/berenschot_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Berenschot Onderzoek van Berenschot BV": {
+    "name": "Berenschot Onderzoek van Berenschot BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/berenschot_onderzoek_van_berenschot_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Berenschot_Beleidsonderzoek en evaluatie Agroregelingen": {
+    "name": "Berenschot_Beleidsonderzoek en evaluatie Agroregelingen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/berenschotbeleidsonderzoek_en_evaluatie_agroregeli",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "parent_organization": "Berenschot",
+    "department": "Beleidsonderzoek en evaluatie Agroregelingen"
+  },
+  "Bern University of Applied Sciences, School of Social Work": {
+    "name": "Bern University of Applied Sciences, School of Social Work",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/bern_university_of_applied_sciences_school_of_soci",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Bocconi University, Centre for Research on Social Dynamics and Public Policy (Dondena)": {
+    "name": "Bocconi University, Centre for Research on Social Dynamics and Public Policy (Dondena)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/bocconi_university_centre_for_research_on_social_d",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Boekmanstichting": {
+    "name": "Boekmanstichting",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/boekmanstichting",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Boston College, Center for Retirement Research": {
+    "name": "Boston College, Center for Retirement Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/boston_college_center_for_retirement_research",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Brown University, Department of Economics": {
+    "name": "Brown University, Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/brown_university_department_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Bureau Bartels B.V.": {
+    "name": "Bureau Bartels B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/bureau_bartels_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Bureau Beke": {
+    "name": "Bureau Beke",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/bureau_beke",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "C6Volg": {
+    "name": "C6Volg",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/c6volg",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CAOP": {
+    "name": "CAOP",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/caop",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector DBD": {
+    "name": "CBS sector DBD",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_dbd",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector DRD": {
+    "name": "CBS sector DRD",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_drd",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector DVO": {
+    "name": "CBS sector DVO",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_dvo",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector EBD": {
+    "name": "CBS sector EBD",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_ebd",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector EBH": {
+    "name": "CBS sector EBH",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_ebh",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector ENR": {
+    "name": "CBS sector ENR",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_enr",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector SAL": {
+    "name": "CBS sector SAL",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_sal",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector SBM": {
+    "name": "CBS sector SBM",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_sbm",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector SES": {
+    "name": "CBS sector SES",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_ses",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector SQS": {
+    "name": "CBS sector SQS",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_sqs",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "CBS sector SVV": {
+    "name": "CBS sector SVV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_svv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Catharina Ziekenhuis, Wetenschapsbureau van de service-eenheid Onderwijs & Onderzoek": {
+    "name": "Catharina Ziekenhuis, Wetenschapsbureau van de service-eenheid Onderwijs & Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/catharina_ziekenhuis_wetenschapsbureau_van_de_serv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Centerdata Research Institute": {
+    "name": "Centerdata Research Institute",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/centerdata_research_institute",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Centraal Bureau voor de Statistiek": {
+    "name": "Centraal Bureau voor de Statistiek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/centraal_bureau_voor_de_statistiek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Centraal Instituut voor Toetsontwikkeling, Afdeling Psychometrie en Onderzoek": {
+    "name": "Centraal Instituut voor Toetsontwikkeling, Afdeling Psychometrie en Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/centraal_instituut_voor_toetsontwikkeling_afdeling",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Centraal Planbureau": {
+    "name": "Centraal Planbureau",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/centraal_planbureau",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Centrum Beleidsadviserend Onderzoek B.V.": {
+    "name": "Centrum Beleidsadviserend Onderzoek B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/centrum_beleidsadviserend_onderzoek_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Centrum voor Wiskunde en Informatica": {
+    "name": "Centrum voor Wiskunde en Informatica",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/centrum_voor_wiskunde_en_informatica",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Chinese University of Hong Kong": {
+    "name": "Chinese University of Hong Kong",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/chinese_university_of_hong_kong",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Columbia University, Department of Psychology": {
+    "name": "Columbia University, Department of Psychology",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/columbia_university_department_of_psychology",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Companen B.V.": {
+    "name": "Companen B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/companen_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Crest, Center for research in economics and statistics": {
+    "name": "Crest, Center for research in economics and statistics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/crest_center_for_research_in_economics_and_statist",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "DNB, Div. Econ beleid&onderz., Div. Financiële stabiliteit, afd. Strategie vd  Div. Toezicht beleid": {
+    "name": "DNB, Div. Econ beleid&onderz., Div. Financiële stabiliteit, afd. Strategie vd  Div. Toezicht beleid",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/dnb_div_econ_beleidonderz_div_financile_stabilitei",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "DSP-groep": {
+    "name": "DSP-groep",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/dspgroep",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "De Argumentenfabriek": {
+    "name": "De Argumentenfabriek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/de_argumentenfabriek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Decisio B.V.": {
+    "name": "Decisio B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/decisio_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Deloitte Consulting B.V. afdeling Analytics & Information Management": {
+    "name": "Deloitte Consulting B.V. afdeling Analytics & Information Management",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/deloitte_consulting_bv_afdeling_analytics_informat",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Dialogic Innovatie & Interactie VOF": {
+    "name": "Dialogic Innovatie & Interactie VOF",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/dialogic_innovatie_interactie_vof",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Dienst Justitiële Inrichtingen, Afdeling Beleid, Cluster Analyse": {
+    "name": "Dienst Justitiële Inrichtingen, Afdeling Beleid, Cluster Analyse",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/dienst_justitile_inrichtingen_afdeling_beleid_clus",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "ECORYS": {
+    "name": "ECORYS",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ecorys",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Economisch Instituut voor de Bouw": {
+    "name": "Economisch Instituut voor de Bouw",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/economisch_instituut_voor_de_bouw",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Economisch Technologisch Instituut Limburg": {
+    "name": "Economisch Technologisch Instituut Limburg",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/economisch_technologisch_instituut_limburg",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Energieonderzoek Centrum Nederland": {
+    "name": "Energieonderzoek Centrum Nederland",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/energieonderzoek_centrum_nederland",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Epsilon Research": {
+    "name": "Epsilon Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/epsilon_research",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Equalis Strategy & Modeling BV": {
+    "name": "Equalis Strategy & Modeling BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/equalis_strategy_modeling_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Erasmus Universiteit Rotterdam": {
+    "name": "Erasmus Universiteit Rotterdam",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdam",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Rotterdam"
+  },
+  "Erasmus Universiteit Rotterdam, Centre for Urban_Port and Transport Economics": {
+    "name": "Erasmus Universiteit Rotterdam, Centre for Urban_Port and Transport Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdam_centre_for_urbanpor",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Rotterdam",
+    "parent_organization": "Erasmus Universiteit Rotterdam, Centre for Urban",
+    "department": "Port and Transport Economics"
+  },
+  "Erasmus Universiteit Rotterdam_Erasmus School of Economics": {
+    "name": "Erasmus Universiteit Rotterdam_Erasmus School of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamerasmus_school_of_ec",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Rotterdam",
+    "parent_organization": "Erasmus Universiteit Rotterdam",
+    "department": "Erasmus School of Economics"
+  },
+  "Erasmus Universiteit Rotterdam_Erasmus School of Economics_Econometrisch Instituut": {
+    "name": "Erasmus Universiteit Rotterdam_Erasmus School of Economics_Econometrisch Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamerasmus_school_of_ec",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Rotterdam",
+    "parent_organization": "Erasmus Universiteit Rotterdam",
+    "department": "Erasmus School of Economics_Econometrisch Instituut"
+  },
+  "Erasmus Universiteit Rotterdam_Erasmus School of Health Policy & Management ": {
+    "name": "Erasmus Universiteit Rotterdam_Erasmus School of Health Policy & Management ",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamerasmus_school_of_he",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Rotterdam",
+    "parent_organization": "Erasmus Universiteit Rotterdam",
+    "department": "Erasmus School of Health Policy & Management "
+  },
+  "Erasmus Universiteit Rotterdam_Erasmus School of Social and Behavioural Sciences": {
+    "name": "Erasmus Universiteit Rotterdam_Erasmus School of Social and Behavioural Sciences",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamerasmus_school_of_so",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Rotterdam",
+    "parent_organization": "Erasmus Universiteit Rotterdam",
+    "department": "Erasmus School of Social and Behavioural Sciences"
+  },
+  "Erasmus Universiteit Rotterdam_Rotterdam School of Management": {
+    "name": "Erasmus Universiteit Rotterdam_Rotterdam School of Management",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamrotterdam_school_of_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Rotterdam",
+    "parent_organization": "Erasmus Universiteit Rotterdam",
+    "department": "Rotterdam School of Management"
+  },
+  "Erasmus Universiteit_Erasmus School of Economics_Erasmus Happiness Economics Research Organisation": {
+    "name": "Erasmus Universiteit_Erasmus School of Economics_Erasmus Happiness Economics Research Organisation",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteiterasmus_school_of_economicsera",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "parent_organization": "Erasmus Universiteit",
+    "department": "Erasmus School of Economics_Erasmus Happiness Economics Research Organisation"
+  },
+  "European University Institute Florence": {
+    "name": "European University Institute Florence",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/european_university_institute_florence",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Expertisecentrum beroepsonderwijs": {
+    "name": "Expertisecentrum beroepsonderwijs",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/expertisecentrum_beroepsonderwijs",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Explica": {
+    "name": "Explica",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/explica",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Fries Sociaal Planbureau": {
+    "name": "Fries Sociaal Planbureau",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/fries_sociaal_planbureau",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "GGD Hart voor Brabant, Team Onderzoek": {
+    "name": "GGD Hart voor Brabant, Team Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ggd_hart_voor_brabant_team_onderzoek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "GGD West-Brabant, Team Onderzoek": {
+    "name": "GGD West-Brabant, Team Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ggd_westbrabant_team_onderzoek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "GGD Zuid Limburg, Kennis & Innovatie": {
+    "name": "GGD Zuid Limburg, Kennis & Innovatie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ggd_zuid_limburg_kennis_innovatie",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "GGD_ZHZ, Dienst Gezondheid & Jeugd, Cluster Regie, Onderzoek en Advies (ROA)": {
+    "name": "GGD_ZHZ, Dienst Gezondheid & Jeugd, Cluster Regie, Onderzoek en Advies (ROA)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ggdzhz_dienst_gezondheid_jeugd_cluster_regie_onder",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "parent_organization": "GGD",
+    "department": "ZHZ, Dienst Gezondheid & Jeugd, Cluster Regie, Onderzoek en Advies (ROA)"
+  },
+  "Gemeente Almere, afdeling Bestuursadvies en ondersteuning, Team Onderzoek en Statistiek": {
+    "name": "Gemeente Almere, afdeling Bestuursadvies en ondersteuning, Team Onderzoek en Statistiek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_almere_afdeling_bestuursadvies_en_onderst",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Gemeente Amsterdam, Dienst Onderzoek en Statistiek": {
+    "name": "Gemeente Amsterdam, Dienst Onderzoek en Statistiek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_amsterdam_dienst_onderzoek_en_statistiek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Amsterdam"
+  },
+  "Gemeente Arnhem, Afdeling Informatie": {
+    "name": "Gemeente Arnhem, Afdeling Informatie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_arnhem_afdeling_informatie",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Gemeente Den Haag, Business Analytics dienst OCW": {
+    "name": "Gemeente Den Haag, Business Analytics dienst OCW",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_den_haag_business_analytics_dienst_ocw",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Gemeente Den Haag, Sociale zaken en Werkgelegenheidsprojecten, Team Onderzoek": {
+    "name": "Gemeente Den Haag, Sociale zaken en Werkgelegenheidsprojecten, Team Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_den_haag_sociale_zaken_en_werkgelegenheid",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Gemeente Den Haag,, Team Onderzoek Afdeling SEPO": {
+    "name": "Gemeente Den Haag,, Team Onderzoek Afdeling SEPO",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_den_haag_team_onderzoek_afdeling_sepo",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Gemeente Groningen, Afdeling Onderzoek & statistiek": {
+    "name": "Gemeente Groningen, Afdeling Onderzoek & statistiek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_groningen_afdeling_onderzoek_statistiek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Groningen"
+  },
+  "Gemeente Rotterdam, Dienstencentrum Onderzoek en Business Intelligence": {
+    "name": "Gemeente Rotterdam, Dienstencentrum Onderzoek en Business Intelligence",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_rotterdam_dienstencentrum_onderzoek_en_bu",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Rotterdam"
+  },
+  "Gemeente Súdwest Fryslân_DataFryslân": {
+    "name": "Gemeente Súdwest Fryslân_DataFryslân",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_sdwest_fryslndatafrysln",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "parent_organization": "Gemeente Súdwest Fryslân",
+    "department": "DataFryslân"
+  },
+  "Gemeente Utrecht, Afdeling Onderzoek": {
+    "name": "Gemeente Utrecht, Afdeling Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_utrecht_afdeling_onderzoek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Utrecht"
+  },
+  "Gemeente Zaanstad, Afdeling Onderzoek en Statistiek": {
+    "name": "Gemeente Zaanstad, Afdeling Onderzoek en Statistiek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_zaanstad_afdeling_onderzoek_en_statistiek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Goethe Universität Frankfurt, Chair of Finance and Economics": {
+    "name": "Goethe Universität Frankfurt, Chair of Finance and Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/goethe_universitt_frankfurt_chair_of_finance_and_e",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Goudappel BV, Afdeling Beleids- en Gedragsonderzoek": {
+    "name": "Goudappel BV, Afdeling Beleids- en Gedragsonderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/goudappel_bv_afdeling_beleids_en_gedragsonderzoek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Hanzehogeschool, Lectoraat Healthy Ageing, Allied Health Care and Nursing": {
+    "name": "Hanzehogeschool, Lectoraat Healthy Ageing, Allied Health Care and Nursing",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/hanzehogeschool_lectoraat_healthy_ageing_allied_he",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Hanzehogeschool, Marian van Os Centre of Expertise Ondernemen, Lectoraat Arbeidsparticipatie": {
+    "name": "Hanzehogeschool, Marian van Os Centre of Expertise Ondernemen, Lectoraat Arbeidsparticipatie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/hanzehogeschool_marian_van_os_centre_of_expertise_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Harvard Medical School": {
+    "name": "Harvard Medical School",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/harvard_medical_school",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Harvard University Department of Economics": {
+    "name": "Harvard University Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/harvard_university_department_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Het Pon & Telos": {
+    "name": "Het Pon & Telos",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/het_pon_telos",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "HogeschoolUtrecht, Lectoraat Werken in Justitieel Kader": {
+    "name": "HogeschoolUtrecht, Lectoraat Werken in Justitieel Kader",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/hogeschoolutrecht_lectoraat_werken_in_justitieel_k",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Utrecht"
+  },
+  "Hong Kong Baptist University, Economics Department": {
+    "name": "Hong Kong Baptist University, Economics Department",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/hong_kong_baptist_university_economics_department",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "I&O Research Enschede": {
+    "name": "I&O Research Enschede",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/io_research_enschede",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "IVA Onderwijs": {
+    "name": "IVA Onderwijs",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/iva_onderwijs",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Immigratie en Naturalisatiedienst (IND), afd. Onderzoek en Analyse": {
+    "name": "Immigratie en Naturalisatiedienst (IND), afd. Onderzoek en Analyse",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/immigratie_en_naturalisatiedienst_ind_afd_onderzoe",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Informatieproducten en programmeren": {
+    "name": "Informatieproducten en programmeren",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/informatieproducten_en_programmeren",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Inspectie Leefomgeving en Transport": {
+    "name": "Inspectie Leefomgeving en Transport",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/inspectie_leefomgeving_en_transport",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Institute National de la Santé et de la Recherche Médicinale": {
+    "name": "Institute National de la Santé et de la Recherche Médicinale",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/institute_national_de_la_sant_et_de_la_recherche_m",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Institute for Prospective Technological Studies": {
+    "name": "Institute for Prospective Technological Studies",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/institute_for_prospective_technological_studies",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Integraal Kankercentrum Nederland, Research": {
+    "name": "Integraal Kankercentrum Nederland, Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/integraal_kankercentrum_nederland_research",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Intraval": {
+    "name": "Intraval",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/intraval",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "KBA Nijmegen_Freihov B.V.": {
+    "name": "KBA Nijmegen_Freihov B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/kba_nijmegenfreihov_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private",
+    "location_hint": "Nijmegen",
+    "parent_organization": "KBA Nijmegen",
+    "department": "Freihov B.V."
+  },
+  "Kadaster, Team Research": {
+    "name": "Kadaster, Team Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/kadaster_team_research",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Katholieke Universiteit Leuven (KU Leuven)": {
+    "name": "Katholieke Universiteit Leuven (KU Leuven)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/katholieke_universiteit_leuven_ku_leuven",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Kennisinstituut van Medisch Specialisten B.V., Kennisforum Methodologie & Epidemiologie": {
+    "name": "Kennisinstituut van Medisch Specialisten B.V., Kennisforum Methodologie & Epidemiologie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/kennisinstituut_van_medisch_specialisten_bv_kennis",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Kennispunt Twente": {
+    "name": "Kennispunt Twente",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/kennispunt_twente",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Twente"
+  },
+  "Kohnstamm Instituut BV": {
+    "name": "Kohnstamm Instituut BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/kohnstamm_instituut_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "KplusV B.V.": {
+    "name": "KplusV B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/kplusv_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Leibniz-Zentrum für Europäische Wirtschaftsforschung GmbH": {
+    "name": "Leibniz-Zentrum für Europäische Wirtschaftsforschung GmbH",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/leibnizzentrum_fr_europische_wirtschaftsforschung_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "London Economics": {
+    "name": "London Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/london_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "London School of Economics, Economics Department": {
+    "name": "London School of Economics, Economics Department",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/london_school_of_economics_economics_department",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Markt Monitor B.V.": {
+    "name": "Markt Monitor B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/markt_monitor_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Melbourne University": {
+    "name": "Melbourne University",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/melbourne_university",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "MinIW": {
+    "name": "MinIW",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/miniw",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "MinIW, Inspectie Leefomgeving en Transport, Informatieproducten en programmeren, Innovatie- en Data": {
+    "name": "MinIW, Inspectie Leefomgeving en Transport, Informatieproducten en programmeren, Innovatie- en Data",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/miniw_inspectie_leefomgeving_en_transport_informat",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Ministerie SZW, Nederlandse Arbeidsinspectie, vakgroep Analyse en Onderzoek": {
+    "name": "Ministerie SZW, Nederlandse Arbeidsinspectie, vakgroep Analyse en Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_szw_nederlandse_arbeidsinspectie_vakgro",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Ministerie van Economische Zaken en Klimaat, Rijksdienst voor Ondernemend Nederland, KME": {
+    "name": "Ministerie van Economische Zaken en Klimaat, Rijksdienst voor Ondernemend Nederland, KME",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_economische_zaken_en_klimaat_rijksd",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Ministerie van Financiën, directie Algemene Financiële en Economische Politiek, afdeling Analytics": {
+    "name": "Ministerie van Financiën, directie Algemene Financiële en Economische Politiek, afdeling Analytics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_financin_directie_algemene_financil",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Ministerie van Infrastructuur en Waterstaat_Kennisinstituut voor Mobiliteitsbeleid": {
+    "name": "Ministerie van Infrastructuur en Waterstaat_Kennisinstituut voor Mobiliteitsbeleid",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_infrastructuur_en_waterstaatkennisi",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government",
+    "parent_organization": "Ministerie van Infrastructuur en Waterstaat",
+    "department": "Kennisinstituut voor Mobiliteitsbeleid"
+  },
+  "Ministerie van Onderwijs Cultuur en Wetenschappen, DUO, Afdeling Informatieproducten": {
+    "name": "Ministerie van Onderwijs Cultuur en Wetenschappen, DUO, Afdeling Informatieproducten",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_onderwijs_cultuur_en_wetenschappen_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Ministerie van Onderwijs Cultuur en Wetenschappen, Inspectie van het Onderwijs, Directie Kennis": {
+    "name": "Ministerie van Onderwijs Cultuur en Wetenschappen, Inspectie van het Onderwijs, Directie Kennis",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_onderwijs_cultuur_en_wetenschappen_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Ministerie van Sociale Zaken en Werkgelegenheid, Directie Arbeidsmarkt en Sociaal-Economisc": {
+    "name": "Ministerie van Sociale Zaken en Werkgelegenheid, Directie Arbeidsmarkt en Sociaal-Economisc",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_sociale_zaken_en_werkgelegenheid_di",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Ministerie van Sociale Zaken en Werkgelegenheid, Directie Financieel-Economische Zaken": {
+    "name": "Ministerie van Sociale Zaken en Werkgelegenheid, Directie Financieel-Economische Zaken",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_sociale_zaken_en_werkgelegenheid_di",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Ministerie van Volksgezondheid Welzijn & Sport, Directie MEVA, Afdeling Algemeen Economisch Beleid": {
+    "name": "Ministerie van Volksgezondheid Welzijn & Sport, Directie MEVA, Afdeling Algemeen Economisch Beleid",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_volksgezondheid_welzijn_sport_direc",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Mulier Instituut": {
+    "name": "Mulier Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/mulier_instituut",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Nationaal Instituut voor Budgetvoorlichting": {
+    "name": "Nationaal Instituut voor Budgetvoorlichting",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nationaal_instituut_voor_budgetvoorlichting",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Nationaal Regieorgaan Onderwijsonderzoek (NRO-NWO)": {
+    "name": "Nationaal Regieorgaan Onderwijsonderzoek (NRO-NWO)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nationaal_regieorgaan_onderwijsonderzoek_nronwo",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "National Institute of Economic and Social Research": {
+    "name": "National Institute of Economic and Social Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/national_institute_of_economic_and_social_research",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Nederlands Instituut Publieke Veiligheid, Nederlandse Academie voor Crisisbeheersing en Brandweerzor": {
+    "name": "Nederlands Instituut Publieke Veiligheid, Nederlandse Academie voor Crisisbeheersing en Brandweerzor",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_instituut_publieke_veiligheid_nederland",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Nederlands Instituut voor Onderzoek v/d Gezondheidszorg": {
+    "name": "Nederlands Instituut voor Onderzoek v/d Gezondheidszorg",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_instituut_voor_onderzoek_vd_gezondheids",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Nederlands Interdisciplinair Demografisch Instituut": {
+    "name": "Nederlands Interdisciplinair Demografisch Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_interdisciplinair_demografisch_instituu",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Nederlands Jeugd Instituut, Vakgroep kwaliteit, beleid en monitoring": {
+    "name": "Nederlands Jeugd Instituut, Vakgroep kwaliteit, beleid en monitoring",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_jeugd_instituut_vakgroep_kwaliteit_bele",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Nederlands Studiecentrum Criminaliteit en Rechtshandhaving": {
+    "name": "Nederlands Studiecentrum Criminaliteit en Rechtshandhaving",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_studiecentrum_criminaliteit_en_rechtsha",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Nederlandse Zorgautoriteit_Economisch Medisch Bureau": {
+    "name": "Nederlandse Zorgautoriteit_Economisch Medisch Bureau",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nederlandse_zorgautoriteiteconomisch_medisch_burea",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research",
+    "parent_organization": "Nederlandse Zorgautoriteit",
+    "department": "Economisch Medisch Bureau"
+  },
+  "New York University, Department of Economics": {
+    "name": "New York University, Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/new_york_university_department_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Nyenrode Business Universiteit": {
+    "name": "Nyenrode Business Universiteit",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/nyenrode_business_universiteit",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Oberon": {
+    "name": "Oberon",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/oberon",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Onderzoeksinstituut IVO": {
+    "name": "Onderzoeksinstituut IVO",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/onderzoeksinstituut_ivo",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Open Universiteit": {
+    "name": "Open Universiteit",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/open_universiteit",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Organisation for Economic Co-operation and Development (OECD)": {
+    "name": "Organisation for Economic Co-operation and Development (OECD)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/organisation_for_economic_cooperation_and_developm",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Panteia, Branches en data, Strategisch onderzoek, Bedrijfslevenbeleid, Arbeidsmarkt en onderwijs": {
+    "name": "Panteia, Branches en data, Strategisch onderzoek, Bedrijfslevenbeleid, Arbeidsmarkt en onderwijs",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/panteia_branches_en_data_strategisch_onderzoek_bed",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Panteia_EIM": {
+    "name": "Panteia_EIM",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/panteiaeim",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "parent_organization": "Panteia",
+    "department": "EIM"
+  },
+  "Panteia_Research voor Beleid": {
+    "name": "Panteia_Research voor Beleid",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/panteiaresearch_voor_beleid",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "parent_organization": "Panteia",
+    "department": "Research voor Beleid"
+  },
+  "Pennsylvania State University": {
+    "name": "Pennsylvania State University",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/pennsylvania_state_university",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Planbureau voor de Leefomgeving": {
+    "name": "Planbureau voor de Leefomgeving",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/planbureau_voor_de_leefomgeving",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Planbureau voor de Leefomgeving_Milieu en NatuurPlanbureau": {
+    "name": "Planbureau voor de Leefomgeving_Milieu en NatuurPlanbureau",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/planbureau_voor_de_leefomgevingmilieu_en_natuurpla",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research",
+    "parent_organization": "Planbureau voor de Leefomgeving",
+    "department": "Milieu en NatuurPlanbureau"
+  },
+  "Planbureau voor de Leefomgeving_Ruimtelijk Planbureau": {
+    "name": "Planbureau voor de Leefomgeving_Ruimtelijk Planbureau",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/planbureau_voor_de_leefomgevingruimtelijk_planbure",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research",
+    "parent_organization": "Planbureau voor de Leefomgeving",
+    "department": "Ruimtelijk Planbureau"
+  },
+  "Prismant BV Onderzoeksafdeling": {
+    "name": "Prismant BV Onderzoeksafdeling",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/prismant_bv_onderzoeksafdeling",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Pyrrhula Research Consultants BV": {
+    "name": "Pyrrhula Research Consultants BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/pyrrhula_research_consultants_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Radboud Universiteit Nijmegen": {
+    "name": "Radboud Universiteit Nijmegen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/radboud_universiteit_nijmegen",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Nijmegen"
+  },
+  "Radboud Universiteit Nijmegen_Faculteit Management Wetenschappen": {
+    "name": "Radboud Universiteit Nijmegen_Faculteit Management Wetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/radboud_universiteit_nijmegenfaculteit_management_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Nijmegen",
+    "parent_organization": "Radboud Universiteit Nijmegen",
+    "department": "Faculteit Management Wetenschappen"
+  },
+  "Radboud Universiteit Nijmegen_Instituut voor Toegepaste Sociologie": {
+    "name": "Radboud Universiteit Nijmegen_Instituut voor Toegepaste Sociologie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/radboud_universiteit_nijmegeninstituut_voor_toegep",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Nijmegen",
+    "parent_organization": "Radboud Universiteit Nijmegen",
+    "department": "Instituut voor Toegepaste Sociologie"
+  },
+  "Rathenau Instituut": {
+    "name": "Rathenau Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rathenau_instituut",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Regioplan Beleidsonderzoek B.V.": {
+    "name": "Regioplan Beleidsonderzoek B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/regioplan_beleidsonderzoek_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Rekenkamer Gemeente Den Haag": {
+    "name": "Rekenkamer Gemeente Den Haag",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rekenkamer_gemeente_den_haag",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Rekenkamer Metropool Amsterdam (Zaanstad en Amsterdam)": {
+    "name": "Rekenkamer Metropool Amsterdam (Zaanstad en Amsterdam)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rekenkamer_metropool_amsterdam_zaanstad_en_amsterd",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Amsterdam"
+  },
+  "Rekenkamer Rotterdam": {
+    "name": "Rekenkamer Rotterdam",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rekenkamer_rotterdam",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Rotterdam"
+  },
+  "ResearchNed B.V.": {
+    "name": "ResearchNed B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/researchned_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Rienstra Beleidsonderzoek en Beleidsadvies BV": {
+    "name": "Rienstra Beleidsonderzoek en Beleidsadvies BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rienstra_beleidsonderzoek_en_beleidsadvies_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Rijksinstituut voor Volksgezondheid en Milieu": {
+    "name": "Rijksinstituut voor Volksgezondheid en Milieu",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rijksinstituut_voor_volksgezondheid_en_milieu",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Government Agency",
+    "sector": "Government"
+  },
+  "Rijksuniversiteit Groningen": {
+    "name": "Rijksuniversiteit Groningen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningen",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Groningen"
+  },
+  "Rijksuniversiteit Groningen_Faculteit Economie en Bedrijfskunde": {
+    "name": "Rijksuniversiteit Groningen_Faculteit Economie en Bedrijfskunde",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_economie_en_b",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Groningen",
+    "parent_organization": "Rijksuniversiteit Groningen",
+    "department": "Faculteit Economie en Bedrijfskunde"
+  },
+  "Rijksuniversiteit Groningen_Faculteit Gedrags en Maatschappijwetenschappen_GION": {
+    "name": "Rijksuniversiteit Groningen_Faculteit Gedrags en Maatschappijwetenschappen_GION",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_gedrags_en_ma",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Groningen",
+    "parent_organization": "Rijksuniversiteit Groningen",
+    "department": "Faculteit Gedrags en Maatschappijwetenschappen_GION"
+  },
+  "Rijksuniversiteit Groningen_Faculteit Gedrags- en Maatschappijwetenschappen": {
+    "name": "Rijksuniversiteit Groningen_Faculteit Gedrags- en Maatschappijwetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_gedrags_en_ma",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Groningen",
+    "parent_organization": "Rijksuniversiteit Groningen",
+    "department": "Faculteit Gedrags- en Maatschappijwetenschappen"
+  },
+  "Rijksuniversiteit Groningen_Faculteit Ruimtelijke Wetenschappen": {
+    "name": "Rijksuniversiteit Groningen_Faculteit Ruimtelijke Wetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_ruimtelijke_w",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Groningen",
+    "parent_organization": "Rijksuniversiteit Groningen",
+    "department": "Faculteit Ruimtelijke Wetenschappen"
+  },
+  "Rijksuniversiteit Groningen_Faculteit Science and Engineering": {
+    "name": "Rijksuniversiteit Groningen_Faculteit Science and Engineering",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_science_and_e",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Groningen",
+    "parent_organization": "Rijksuniversiteit Groningen",
+    "department": "Faculteit Science and Engineering"
+  },
+  "Rotterdams Instituut voor Sociaal-Wetenschappelijk BeleidsOnderzoek": {
+    "name": "Rotterdams Instituut voor Sociaal-Wetenschappelijk BeleidsOnderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/rotterdams_instituut_voor_sociaalwetenschappelijk_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research",
+    "location_hint": "Rotterdam"
+  },
+  "SEO Economisch Onderzoek": {
+    "name": "SEO Economisch Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/seo_economisch_onderzoek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "SP, Wetenschappelijk Bureau": {
+    "name": "SP, Wetenschappelijk Bureau",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/sp_wetenschappelijk_bureau",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Samen Twente_Kennispunt Twente": {
+    "name": "Samen Twente_Kennispunt Twente",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/samen_twentekennispunt_twente",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Twente",
+    "parent_organization": "Samen Twente",
+    "department": "Kennispunt Twente"
+  },
+  "School of Management": {
+    "name": "School of Management",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/school_of_management",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Significance": {
+    "name": "Significance",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/significance",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Significant Public": {
+    "name": "Significant Public",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/significant_public",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Sociaal en Cultureel Planbureau": {
+    "name": "Sociaal en Cultureel Planbureau",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/sociaal_en_cultureel_planbureau",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Sociale Verzekeringsbank, Centrum voor Raming, Onderzoek & Statistiek": {
+    "name": "Sociale Verzekeringsbank, Centrum voor Raming, Onderzoek & Statistiek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/sociale_verzekeringsbank_centrum_voor_raming_onder",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "SpringCo BV": {
+    "name": "SpringCo BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/springco_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Stanford University, Immigration Policy lab": {
+    "name": "Stanford University, Immigration Policy lab",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stanford_university_immigration_policy_lab",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Stec Groep B.V.": {
+    "name": "Stec Groep B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stec_groep_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "Stichting CMO STAMM Groningen Drenthe, Data-Team CMO STAMM": {
+    "name": "Stichting CMO STAMM Groningen Drenthe, Data-Team CMO STAMM",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_cmo_stamm_groningen_drenthe_datateam_cmo",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Groningen"
+  },
+  "Stichting Het Nederlands Kanker Instituut-Antoni van Leeuwenhoek Ziekenhuis": {
+    "name": "Stichting Het Nederlands Kanker Instituut-Antoni van Leeuwenhoek Ziekenhuis",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_het_nederlands_kanker_instituutantoni_va",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Stichting In Fact": {
+    "name": "Stichting In Fact",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_in_fact",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Stichting Onderzoek Multinationale Ondernemingen": {
+    "name": "Stichting Onderzoek Multinationale Ondernemingen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_onderzoek_multinationale_ondernemingen",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Stichting Rigo": {
+    "name": "Stichting Rigo",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_rigo",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Stichting Rutgers  WPF": {
+    "name": "Stichting Rutgers  WPF",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_rutgers_wpf",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Stichting Samenwerking Beroepsonderwijs en Bedrijfsleven, team ABD": {
+    "name": "Stichting Samenwerking Beroepsonderwijs en Bedrijfsleven, team ABD",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_samenwerking_beroepsonderwijs_en_bedrijf",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Stichting Tympaan Instituut": {
+    "name": "Stichting Tympaan Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_tympaan_instituut",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Stichting Wageningen Research - Wageningen Economic Research": {
+    "name": "Stichting Wageningen Research - Wageningen Economic Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_wageningen_research_wageningen_economic_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Wageningen"
+  },
+  "Stichting voor Economisch Onderzoek Rotterdam BV": {
+    "name": "Stichting voor Economisch Onderzoek Rotterdam BV",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/stichting_voor_economisch_onderzoek_rotterdam_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private",
+    "location_hint": "Rotterdam"
+  },
+  "TNO (Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek)": {
+    "name": "TNO (Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tno_nederlandse_organisatie_voor_toegepastnatuurwe",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "TNO Bouw en Ondergrond": {
+    "name": "TNO Bouw en Ondergrond",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tno_bouw_en_ondergrond",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "TNO Dutch Centre for Health Assets": {
+    "name": "TNO Dutch Centre for Health Assets",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tno_dutch_centre_for_health_assets",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "TNO Energy and Comfort Systems": {
+    "name": "TNO Energy and Comfort Systems",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tno_energy_and_comfort_systems",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "TNO Inro": {
+    "name": "TNO Inro",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tno_inro",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "TNO Kwaliteit van Leven": {
+    "name": "TNO Kwaliteit van Leven",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tno_kwaliteit_van_leven",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "TNO Kwaliteit van Leven, Arbeid": {
+    "name": "TNO Kwaliteit van Leven, Arbeid",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tno_kwaliteit_van_leven_arbeid",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Technical University of Berlin": {
+    "name": "Technical University of Berlin",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technical_university_of_berlin",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Technische Universiteit Delft": {
+    "name": "Technische Universiteit Delft",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delft",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Delft"
+  },
+  "Technische Universiteit Delft_Faculteit Bouwkunde_ Urbanism": {
+    "name": "Technische Universiteit Delft_Faculteit Bouwkunde_ Urbanism",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delftfaculteit_bouwkunde_u",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Delft",
+    "parent_organization": "Technische Universiteit Delft",
+    "department": "Faculteit Bouwkunde_ Urbanism"
+  },
+  "Technische Universiteit Delft_Faculteit Bouwkunde_Department of Management in the Built Environment": {
+    "name": "Technische Universiteit Delft_Faculteit Bouwkunde_Department of Management in the Built Environment",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delftfaculteit_bouwkundede",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Delft",
+    "parent_organization": "Technische Universiteit Delft",
+    "department": "Faculteit Bouwkunde_Department of Management in the Built Environment"
+  },
+  "Technische Universiteit Delft_Faculteit Techniek, Bestuur en Management": {
+    "name": "Technische Universiteit Delft_Faculteit Techniek, Bestuur en Management",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delftfaculteit_techniek_be",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Delft",
+    "parent_organization": "Technische Universiteit Delft",
+    "department": "Faculteit Techniek, Bestuur en Management"
+  },
+  "Technische Universiteit Eindhoven": {
+    "name": "Technische Universiteit Eindhoven",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_eindhoven",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Eindhoven"
+  },
+  "Technische Universiteit Eindhoven_Department Built Environment": {
+    "name": "Technische Universiteit Eindhoven_Department Built Environment",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_eindhovendepartment_built_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Eindhoven",
+    "parent_organization": "Technische Universiteit Eindhoven",
+    "department": "Department Built Environment"
+  },
+  "Technische Universiteit Eindhoven_Eindhoven Centre for Innovation": {
+    "name": "Technische Universiteit Eindhoven_Eindhoven Centre for Innovation",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_eindhoveneindhoven_centre_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Eindhoven",
+    "parent_organization": "Technische Universiteit Eindhoven",
+    "department": "Eindhoven Centre for Innovation"
+  },
+  "Technopolis B.V.": {
+    "name": "Technopolis B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/technopolis_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "The Board of Regents of the University of Wisconsin System": {
+    "name": "The Board of Regents of the University of Wisconsin System",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/the_board_of_regents_of_the_university_of_wisconsi",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Tilburg University": {
+    "name": "Tilburg University",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_university",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Tilburg"
+  },
+  "Tilburg University_ School of Economics and Management": {
+    "name": "Tilburg University_ School of Economics and Management",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_university_school_of_economics_and_managem",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Tilburg",
+    "parent_organization": "Tilburg University",
+    "department": " School of Economics and Management"
+  },
+  "Tilburg University_Law School_ReflecT": {
+    "name": "Tilburg University_Law School_ReflecT",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universitylaw_schoolreflect",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Tilburg",
+    "parent_organization": "Tilburg University",
+    "department": "Law School_ReflecT"
+  },
+  "Tilburg University_School of Economics and Management_Econometrics and Operations Research": {
+    "name": "Tilburg University_School of Economics and Management_Econometrics and Operations Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universityschool_of_economics_and_manageme",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Tilburg",
+    "parent_organization": "Tilburg University",
+    "department": "School of Economics and Management_Econometrics and Operations Research"
+  },
+  "Tilburg University_School of Economics and Management_NETSPAR": {
+    "name": "Tilburg University_School of Economics and Management_NETSPAR",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universityschool_of_economics_and_manageme",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Tilburg",
+    "parent_organization": "Tilburg University",
+    "department": "School of Economics and Management_NETSPAR"
+  },
+  "Tilburg University_School of Economics and Management_Telos": {
+    "name": "Tilburg University_School of Economics and Management_Telos",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universityschool_of_economics_and_manageme",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Tilburg",
+    "parent_organization": "Tilburg University",
+    "department": "School of Economics and Management_Telos"
+  },
+  "Tilburg University_Tilburg School of Social and Behavioral Sciences_Dept. Sociologie": {
+    "name": "Tilburg University_Tilburg School of Social and Behavioral Sciences_Dept. Sociologie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universitytilburg_school_of_social_and_beh",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Tilburg",
+    "parent_organization": "Tilburg University",
+    "department": "Tilburg School of Social and Behavioral Sciences_Dept. Sociologie"
+  },
+  "Tohoku University Graduate School of Economics and Management": {
+    "name": "Tohoku University Graduate School of Economics and Management",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/tohoku_university_graduate_school_of_economics_and",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Trimbos Instituut": {
+    "name": "Trimbos Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/trimbos_instituut",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Trinomics B.V.": {
+    "name": "Trinomics B.V.",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/trinomics_bv",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Private Company",
+    "sector": "Private"
+  },
+  "UM_SBE_United Nations University, Economic Research Institute on Innovation and Technology": {
+    "name": "UM_SBE_United Nations University, Economic Research Institute on Innovation and Technology",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/umsbeunited_nations_university_economic_research_i",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "parent_organization": "UM",
+    "department": "SBE_United Nations University, Economic Research Institute on Innovation and Technology"
+  },
+  "Uitvoeringsinstituut Werknemersverzekeringen, Dir. Strategie, beleid, kenniscentrum, Kenniscentrum": {
+    "name": "Uitvoeringsinstituut Werknemersverzekeringen, Dir. Strategie, beleid, kenniscentrum, Kenniscentrum",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/uitvoeringsinstituut_werknemersverzekeringen_dir_s",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "UniSydney, University New South Wales Business School Centre in Population Ageing Research": {
+    "name": "UniSydney, University New South Wales Business School Centre in Population Ageing Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/unisydney_university_new_south_wales_business_scho",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Univerity Yale_Department of Economics": {
+    "name": "Univerity Yale_Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/univerity_yaledepartment_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "parent_organization": "Univerity Yale",
+    "department": "Department of Economics"
+  },
+  "Universitair Medisch Centrum Erasmus Rotterdam": {
+    "name": "Universitair Medisch Centrum Erasmus Rotterdam",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_erasmus_rotterdam",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Rotterdam"
+  },
+  "Universitair Medisch Centrum Erasmus Rotterdam_Instituut Maatschappelijke Gezondheidszorg": {
+    "name": "Universitair Medisch Centrum Erasmus Rotterdam_Instituut Maatschappelijke Gezondheidszorg",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_erasmus_rotterdaminst",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research",
+    "location_hint": "Rotterdam",
+    "parent_organization": "Universitair Medisch Centrum Erasmus Rotterdam",
+    "department": "Instituut Maatschappelijke Gezondheidszorg"
+  },
+  "Universitair Medisch Centrum Groningen": {
+    "name": "Universitair Medisch Centrum Groningen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_groningen",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Groningen"
+  },
+  "Universitair Medisch Centrum Groningen_Eurocat": {
+    "name": "Universitair Medisch Centrum Groningen_Eurocat",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_groningeneurocat",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Groningen",
+    "parent_organization": "Universitair Medisch Centrum Groningen",
+    "department": "Eurocat"
+  },
+  "Universitair Medisch Centrum Leiden": {
+    "name": "Universitair Medisch Centrum Leiden",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_leiden",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Leiden"
+  },
+  "Universitair Medisch Centrum Leiden, afdeling medische oncologie": {
+    "name": "Universitair Medisch Centrum Leiden, afdeling medische oncologie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_leiden_afdeling_medis",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Leiden"
+  },
+  "Universitair Medisch Centrum Radboud Nijmegen": {
+    "name": "Universitair Medisch Centrum Radboud Nijmegen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_radboud_nijmegen",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Nijmegen"
+  },
+  "Universitair Medisch Centrum Utrecht": {
+    "name": "Universitair Medisch Centrum Utrecht",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_utrecht",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Utrecht"
+  },
+  "Universitair Medisch Centrum Utrecht_Julius Centrum": {
+    "name": "Universitair Medisch Centrum Utrecht_Julius Centrum",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_utrechtjulius_centrum",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Utrecht",
+    "parent_organization": "Universitair Medisch Centrum Utrecht",
+    "department": "Julius Centrum"
+  },
+  "Universitair Medisch Centrum_Huisartsopleiding": {
+    "name": "Universitair Medisch Centrum_Huisartsopleiding",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrumhuisartsopleiding",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "parent_organization": "Universitair Medisch Centrum",
+    "department": "Huisartsopleiding"
+  },
+  "Universiteit Hasselt": {
+    "name": "Universiteit Hasselt",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_hasselt",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "Universiteit Leiden": {
+    "name": "Universiteit Leiden",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leiden",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Leiden"
+  },
+  "Universiteit Leiden_Asia Centres_Faculteit Humanities": {
+    "name": "Universiteit Leiden_Asia Centres_Faculteit Humanities",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidenasia_centresfaculteit_humanitie",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Leiden",
+    "parent_organization": "Universiteit Leiden",
+    "department": "Asia Centres_Faculteit Humanities"
+  },
+  "Universiteit Leiden_Faculteit W&N_The Leiden Institute of Advanced Computer Science": {
+    "name": "Universiteit Leiden_Faculteit W&N_The Leiden Institute of Advanced Computer Science",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidenfaculteit_wnthe_leiden_institut",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Leiden",
+    "parent_organization": "Universiteit Leiden",
+    "department": "Faculteit W&N_The Leiden Institute of Advanced Computer Science"
+  },
+  "Universiteit Leiden_Institute of Security and Global Affaires": {
+    "name": "Universiteit Leiden_Institute of Security and Global Affaires",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leideninstitute_of_security_and_globa",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Leiden",
+    "parent_organization": "Universiteit Leiden",
+    "department": "Institute of Security and Global Affaires"
+  },
+  "Universiteit Leiden_Sociale Wetenschappen": {
+    "name": "Universiteit Leiden_Sociale Wetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidensociale_wetenschappen",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Leiden",
+    "parent_organization": "Universiteit Leiden",
+    "department": "Sociale Wetenschappen"
+  },
+  "Universiteit Leiden_faculteit rechten": {
+    "name": "Universiteit Leiden_faculteit rechten",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidenfaculteit_rechten",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Leiden",
+    "parent_organization": "Universiteit Leiden",
+    "department": "faculteit rechten"
+  },
+  "Universiteit Maastricht": {
+    "name": "Universiteit Maastricht",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastricht",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Maastricht"
+  },
+  "Universiteit Maastricht_Faculty of Health, Medicine and Life Sciences": {
+    "name": "Universiteit Maastricht_Faculty of Health, Medicine and Life Sciences",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtfaculty_of_health_medicine_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Maastricht",
+    "parent_organization": "Universiteit Maastricht",
+    "department": "Faculty of Health, Medicine and Life Sciences"
+  },
+  "Universiteit Maastricht_School Science and Engineering": {
+    "name": "Universiteit Maastricht_School Science and Engineering",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtschool_science_and_engineer",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Maastricht",
+    "parent_organization": "Universiteit Maastricht",
+    "department": "School Science and Engineering"
+  },
+  "Universiteit Maastricht_School of Business and Economics": {
+    "name": "Universiteit Maastricht_School of Business and Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtschool_of_business_and_econ",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Maastricht",
+    "parent_organization": "Universiteit Maastricht",
+    "department": "School of Business and Economics"
+  },
+  "Universiteit Maastricht_School of Business and Economics_Researchcentrum Onderwijs en Arbeidmarkt": {
+    "name": "Universiteit Maastricht_School of Business and Economics_Researchcentrum Onderwijs en Arbeidmarkt",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtschool_of_business_and_econ",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Maastricht",
+    "parent_organization": "Universiteit Maastricht",
+    "department": "School of Business and Economics_Researchcentrum Onderwijs en Arbeidmarkt"
+  },
+  "Universiteit Maastricht_School of Science and Engineering_TIER": {
+    "name": "Universiteit Maastricht_School of Science and Engineering_TIER",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtschool_of_science_and_engin",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Maastricht",
+    "parent_organization": "Universiteit Maastricht",
+    "department": "School of Science and Engineering_TIER"
+  },
+  "Universiteit Twente_Behavioural, Management and Social Science": {
+    "name": "Universiteit Twente_Behavioural, Management and Social Science",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_twentebehavioural_management_and_soci",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Twente",
+    "parent_organization": "Universiteit Twente",
+    "department": "Behavioural, Management and Social Science"
+  },
+  "Universiteit Twente_Engineering Technology": {
+    "name": "Universiteit Twente_Engineering Technology",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_twenteengineering_technology",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Twente",
+    "parent_organization": "Universiteit Twente",
+    "department": "Engineering Technology"
+  },
+  "Universiteit Utrecht": {
+    "name": "Universiteit Utrecht",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrecht",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Utrecht"
+  },
+  "Universiteit Utrecht_Faculteit Diergeneeskunde_Institute for Risk Assessment Sciences": {
+    "name": "Universiteit Utrecht_Faculteit Diergeneeskunde_Institute for Risk Assessment Sciences",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtfaculteit_diergeneeskundeinsti",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Utrecht",
+    "parent_organization": "Universiteit Utrecht",
+    "department": "Faculteit Diergeneeskunde_Institute for Risk Assessment Sciences"
+  },
+  "Universiteit Utrecht_Faculteit Geowetenschappen": {
+    "name": "Universiteit Utrecht_Faculteit Geowetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtfaculteit_geowetenschappen",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Utrecht",
+    "parent_organization": "Universiteit Utrecht",
+    "department": "Faculteit Geowetenschappen"
+  },
+  "Universiteit Utrecht_Faculteit Sociale Wetenschappen": {
+    "name": "Universiteit Utrecht_Faculteit Sociale Wetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtfaculteit_sociale_wetenschappe",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Utrecht",
+    "parent_organization": "Universiteit Utrecht",
+    "department": "Faculteit Sociale Wetenschappen"
+  },
+  "Universiteit Utrecht_Utrecht Faculteit Recht Economie Bestuur en Organisatie_School of Economics": {
+    "name": "Universiteit Utrecht_Utrecht Faculteit Recht Economie Bestuur en Organisatie_School of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtutrecht_faculteit_recht_econom",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Utrecht",
+    "parent_organization": "Universiteit Utrecht",
+    "department": "Utrecht Faculteit Recht Economie Bestuur en Organisatie_School of Economics"
+  },
+  "Universiteit van Amsterdam": {
+    "name": "Universiteit van Amsterdam",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdam",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam"
+  },
+  "Universiteit van Amsterdam_Faculteit Economie en Bedrijfskunde": {
+    "name": "Universiteit van Amsterdam_Faculteit Economie en Bedrijfskunde",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_economie_en_be",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Universiteit van Amsterdam",
+    "department": "Faculteit Economie en Bedrijfskunde"
+  },
+  "Universiteit van Amsterdam_Faculteit FEB_Top Institute for Evidence Based Education Research (TIER)": {
+    "name": "Universiteit van Amsterdam_Faculteit FEB_Top Institute for Evidence Based Education Research (TIER)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_febtop_institu",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Universiteit van Amsterdam",
+    "department": "Faculteit FEB_Top Institute for Evidence Based Education Research (TIER)"
+  },
+  "Universiteit van Amsterdam_Faculteit FMG_Amsterdam Institute for Social Sience Research": {
+    "name": "Universiteit van Amsterdam_Faculteit FMG_Amsterdam Institute for Social Sience Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_fmgamsterdam_i",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Universiteit van Amsterdam",
+    "department": "Faculteit FMG_Amsterdam Institute for Social Sience Research"
+  },
+  "Universiteit van Amsterdam_Faculteit Rechten_Amsterdam Institute for Advanced Labour Studies": {
+    "name": "Universiteit van Amsterdam_Faculteit Rechten_Amsterdam Institute for Advanced Labour Studies",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_rechtenamsterd",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Universiteit van Amsterdam",
+    "department": "Faculteit Rechten_Amsterdam Institute for Advanced Labour Studies"
+  },
+  "Universiteit van Amsterdam_Faculteit der Maatschappij- en Gedragswetenschappen": {
+    "name": "Universiteit van Amsterdam_Faculteit der Maatschappij- en Gedragswetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_der_maatschapp",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Universiteit van Amsterdam",
+    "department": "Faculteit der Maatschappij- en Gedragswetenschappen"
+  },
+  "Universiteit van Antwerpen, faculteit Sociale Wetenschappen": {
+    "name": "Universiteit van Antwerpen, faculteit Sociale Wetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_antwerpen_faculteit_sociale_weten",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University Bergamo, Department of Management, Economics and Quantitative Methods": {
+    "name": "University Bergamo, Department of Management, Economics and Quantitative Methods",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_bergamo_department_of_management_econom",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University Sherbrooke": {
+    "name": "University Sherbrooke",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_sherbrooke",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University Stockholm University_Department of Human Geography": {
+    "name": "University Stockholm University_Department of Human Geography",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_stockholm_universitydepartment_of_human",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "parent_organization": "University Stockholm University",
+    "department": "Department of Human Geography"
+  },
+  "University Zurich_Department of Economics": {
+    "name": "University Zurich_Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_zurichdepartment_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "parent_organization": "University Zurich",
+    "department": "Department of Economics"
+  },
+  "University of Bath, School of Management": {
+    "name": "University of Bath, School of Management",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_bath_school_of_management",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Bern, Faculty of Sience, Institute of Geography": {
+    "name": "University of Bern, Faculty of Sience, Institute of Geography",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_bern_faculty_of_sience_institute_of_",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Birmingham, Business School": {
+    "name": "University of Birmingham, Business School",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_birmingham_business_school",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Chicago, Booth School of Business": {
+    "name": "University of Chicago, Booth School of Business",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_chicago_booth_school_of_business",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Chicago, Department of Economics": {
+    "name": "University of Chicago, Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_chicago_department_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Colorado, Leeds School of Business": {
+    "name": "University of Colorado, Leeds School of Business",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_colorado_leeds_school_of_business",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Edinburgh": {
+    "name": "University of Edinburgh",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_edinburgh",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Essex (UK)": {
+    "name": "University of Essex (UK)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_essex_uk",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Gothenburg Department of Economics": {
+    "name": "University of Gothenburg Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_gothenburg_department_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Lausanne Département d'écononnétrie et d'économie": {
+    "name": "University of Lausanne Département d'écononnétrie et d'économie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_lausanne_dpartement_dcononntrie_et_d",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Leicester Business School": {
+    "name": "University of Leicester Business School",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_leicester_business_school",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Oxford (UK)_Department of Economics": {
+    "name": "University of Oxford (UK)_Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_oxford_ukdepartment_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "parent_organization": "University of Oxford (UK)",
+    "department": "Department of Economics"
+  },
+  "University of Oxford, Department of Politics & International Relations": {
+    "name": "University of Oxford, Department of Politics & International Relations",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_oxford_department_of_politics_intern",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Princeton's Center for Health and Wellbeing": {
+    "name": "University of Princeton's Center for Health and Wellbeing",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_princetons_center_for_health_and_wel",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Singapore, Humanities, Arts and Social Sciences": {
+    "name": "University of Singapore, Humanities, Arts and Social Sciences",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_singapore_humanities_arts_and_social",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Tampere, Department of Social Sciences and Humanities": {
+    "name": "University of Tampere, Department of Social Sciences and Humanities",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_tampere_department_of_social_science",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Toronto Department of Economics": {
+    "name": "University of Toronto Department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_toronto_department_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "University of Warsaw_faculty of economic sciences": {
+    "name": "University of Warsaw_faculty of economic sciences",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_warsawfaculty_of_economic_sciences",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "parent_organization": "University of Warsaw",
+    "department": "faculty of economic sciences"
+  },
+  "University of Zagreb_Economics and Business": {
+    "name": "University of Zagreb_Economics and Business",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/university_of_zagrebeconomics_and_business",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "parent_organization": "University of Zagreb",
+    "department": "Economics and Business"
+  },
+  "Universität Bielefeld": {
+    "name": "Universität Bielefeld",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitt_bielefeld",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Universität Bonn, Institute for Macroeconomics and Econometrics (IME)": {
+    "name": "Universität Bonn, Institute for Macroeconomics and Econometrics (IME)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitt_bonn_institute_for_macroeconomics_and_e",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Universität Hohenheim Stuttgart": {
+    "name": "Universität Hohenheim Stuttgart",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universitt_hohenheim_stuttgart",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Université de Caen Basse Normandie": {
+    "name": "Université de Caen Basse Normandie",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/universit_de_caen_basse_normandie",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Uppsala University, department of Economics": {
+    "name": "Uppsala University, department of Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/uppsala_university_department_of_economics",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "VSUP Novo Mesto, Faculty of Business and Management Sciences": {
+    "name": "VSUP Novo Mesto, Faculty of Business and Management Sciences",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vsup_novo_mesto_faculty_of_business_and_management",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "VanMontfoort, Kernteam Onderzoek": {
+    "name": "VanMontfoort, Kernteam Onderzoek",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vanmontfoort_kernteam_onderzoek",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Veiligheidsregio Rotterdam-Rijnmond, Afdeling Onderzoek en Analyse": {
+    "name": "Veiligheidsregio Rotterdam-Rijnmond, Afdeling Onderzoek en Analyse",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/veiligheidsregio_rotterdamrijnmond_afdeling_onderz",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown",
+    "location_hint": "Rotterdam"
+  },
+  "Verwey-Jonker Instituut": {
+    "name": "Verwey-Jonker Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/verweyjonker_instituut",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "Vrije Universiteit Amsterdam": {
+    "name": "Vrije Universiteit Amsterdam",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdam",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam"
+  },
+  "Vrije Universiteit Amsterdam Medisch Centrum (VUMC)": {
+    "name": "Vrije Universiteit Amsterdam Medisch Centrum (VUMC)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdam_medisch_centrum_vumc",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam"
+  },
+  "Vrije Universiteit Amsterdam_Faculteit Gedrags en Bewegingswetenschap_Center for Learning Analytics": {
+    "name": "Vrije Universiteit Amsterdam_Faculteit Gedrags en Bewegingswetenschap_Center for Learning Analytics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamfaculteit_gedrags_en_b",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "Faculteit Gedrags en Bewegingswetenschap_Center for Learning Analytics"
+  },
+  "Vrije Universiteit Amsterdam_Faculteit Gedrags- en Bewegingswetenschappen": {
+    "name": "Vrije Universiteit Amsterdam_Faculteit Gedrags- en Bewegingswetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamfaculteit_gedrags_en_b",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "Faculteit Gedrags- en Bewegingswetenschappen"
+  },
+  "Vrije Universiteit Amsterdam_Faculteit Sociale Wetenschappen": {
+    "name": "Vrije Universiteit Amsterdam_Faculteit Sociale Wetenschappen",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamfaculteit_sociale_wete",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "Faculteit Sociale Wetenschappen"
+  },
+  "Vrije Universiteit Amsterdam_Faculteit der Rechtsgeleerdheid": {
+    "name": "Vrije Universiteit Amsterdam_Faculteit der Rechtsgeleerdheid",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamfaculteit_der_rechtsge",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "Faculteit der Rechtsgeleerdheid"
+  },
+  "Vrije Universiteit Amsterdam_Medisch Centrum_EMGO Instituut voor naar gezondheid en zorg_afdeling So": {
+    "name": "Vrije Universiteit Amsterdam_Medisch Centrum_EMGO Instituut voor naar gezondheid en zorg_afdeling So",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdammedisch_centrumemgo_in",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "Medisch Centrum_EMGO Instituut voor naar gezondheid en zorg_afdeling So"
+  },
+  "Vrije Universiteit Amsterdam_School of Business and Economics": {
+    "name": "Vrije Universiteit Amsterdam_School of Business and Economics",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamschool_of_business_and",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "School of Business and Economics"
+  },
+  "Vrije Universiteit Amsterdam_School of Business and Economics_Netspar": {
+    "name": "Vrije Universiteit Amsterdam_School of Business and Economics_Netspar",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamschool_of_business_and",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "School of Business and Economics_Netspar"
+  },
+  "Vrije Universiteit Amsterdam_School of Business and Economics_Tinbergen Instituut": {
+    "name": "Vrije Universiteit Amsterdam_School of Business and Economics_Tinbergen Instituut",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamschool_of_business_and",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Amsterdam",
+    "parent_organization": "Vrije Universiteit Amsterdam",
+    "department": "School of Business and Economics_Tinbergen Instituut"
+  },
+  "Wageningen Universiteit_Department of Social Sciences": {
+    "name": "Wageningen Universiteit_Department of Social Sciences",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_universiteitdepartment_of_social_scienc",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Wageningen",
+    "parent_organization": "Wageningen Universiteit",
+    "department": "Department of Social Sciences"
+  },
+  "Wageningen University & Research": {
+    "name": "Wageningen University & Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_university_research",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Wageningen"
+  },
+  "Wageningen University, Wageningen Economic Research": {
+    "name": "Wageningen University, Wageningen Economic Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_university_wageningen_economic_research",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Wageningen"
+  },
+  "Wageningen University, Wageningen Environmental Research": {
+    "name": "Wageningen University, Wageningen Environmental Research",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_university_wageningen_environmental_res",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education",
+    "location_hint": "Wageningen"
+  },
+  "Wetenschappelijk Onderzoeks- en DocumentatieCentrum": {
+    "name": "Wetenschappelijk Onderzoeks- en DocumentatieCentrum",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/wetenschappelijk_onderzoeks_en_documentatiecentrum",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Wetenschappelijke Raad voor het Regeringsbeleid": {
+    "name": "Wetenschappelijke Raad voor het Regeringsbeleid",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/wetenschappelijke_raad_voor_het_regeringsbeleid",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Woonbond Kennis en Adviescentrum (WKA)": {
+    "name": "Woonbond Kennis en Adviescentrum (WKA)",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/woonbond_kennis_en_adviescentrum_wka",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  },
+  "Yale University": {
+    "name": "Yale University",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/yale_university",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Educational Institution",
+    "sector": "Education"
+  },
+  "ZB Planbureau en Bibliotheek van Zeeland": {
+    "name": "ZB Planbureau en Bibliotheek van Zeeland",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/zb_planbureau_en_bibliotheek_van_zeeland",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Research Institute",
+    "sector": "Research"
+  },
+  "École Polytechnique Fédérale de Lausanne": {
+    "name": "École Polytechnique Fédérale de Lausanne",
+    "uri": "https://w3id.org/odissei/ns/kg/cbs/organization/cole_polytechnique_fdrale_de_lausanne",
+    "type": "Organization",
+    "lookup_attempted": true,
+    "found_details": false,
+    "org_type": "Organization",
+    "sector": "Unknown"
+  }
+}
