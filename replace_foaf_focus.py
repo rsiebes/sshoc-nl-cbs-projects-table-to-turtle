@@ -98,7 +98,7 @@ def main():
     print("FOAF Focus to Schema.org Type Converter")
     print("=" * 40)
     
-    turtle_file = 'resources/data/projects_start_dates.ttl'
+    turtle_file = 'resources/data/cbs_projects_before_2025.ttl'
     
     try:
         original_count, new_count, remaining_count = replace_foaf_focus_with_schema_types(turtle_file)

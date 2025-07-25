@@ -60,7 +60,7 @@ def main():
     print("Backslash Fixer for dc:alternative Properties")
     print("=" * 45)
     
-    turtle_file = 'resources/data/projects_start_dates.ttl'
+    turtle_file = 'resources/data/cbs_projects_before_2025.ttl'
     
     try:
         properties_count, original_count, fixed_count = fix_backslashes_in_turtle(turtle_file)

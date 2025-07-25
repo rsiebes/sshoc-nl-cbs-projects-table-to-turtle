@@ -3,7 +3,7 @@
 Integrate Organization FOAF Profiles with Main Turtle File
 
 This script integrates the generated organization FOAF profiles with the main
-projects_start_dates.ttl file and adds relationships between projects and organizations.
+cbs_projects_before_2025.ttl file and adds relationships between projects and organizations.
 """
 
 import pandas as pd
@@ -57,7 +57,7 @@ def integrate_turtle_files():
     print("Integrating FOAF profiles with main Turtle file...")
     
     # Read the main projects file
-    with open('resources/data/projects_start_dates.ttl', 'r', encoding='utf-8') as f:
+    with open('resources/data/cbs_projects_before_2025.ttl', 'r', encoding='utf-8') as f:
         main_content = f.read()
     
     # Read the organization FOAF profiles
@@ -142,7 +142,7 @@ def integrate_turtle_files():
     final_content.extend(org_profiles)
     
     # Write the integrated file
-    output_file = 'resources/data/projects_start_dates.ttl'
+    output_file = 'resources/data/cbs_projects_before_2025.ttl'
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(final_content))
     

@@ -205,7 +205,7 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
 def main():
     """Main function."""
     excel_file = "resources/data/Projecten_met_bestanden_einddatum_voor_2025_.xlsx"
-    output_file = "resources/data/projects_start_dates.ttl"
+    output_file = "resources/data/cbs_projects_before_2025.ttl"
     
     if not os.path.exists(excel_file):
         print(f"Error: Excel file not found: {excel_file}")
