@@ -1,0 +1,49 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<https://w3id.org/odissei/ns/kg/cbs/organization/rivm>
+   rdf:type foaf:Organization ;
+   foaf:name "Rijksinstituut voor Volksgezondheid en Milieu" ;
+   foaf:name "National Institute for Public Health and the Environment"@en ;
+   foaf:nick "RIVM" ;
+   foaf:homepage <https://www.rivm.nl/> ;
+   foaf:mbox <mailto:info@rivm.nl> ;
+   foaf:phone <tel:+31-88-689-8989> ;
+   foaf:focus "Committed to health and sustainability" ;
+   foaf:depiction <https://www.rivm.nl/sites/default/files/2018-11/rivm_logo_en.png> ;
+   rdfs:comment "RIVM works towards a healthy population and a sustainable, safe and healthy environment. RIVM pursues those goals through research and advice, and by collecting and applying knowledge."@en ;
+   rdfs:comment "Het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) verricht onderzoek, adviseert en ondersteunt de overheid bij deze uitdaging."@nl ;
+   vcard:hasAddress [
+      rdf:type vcard:Address ;
+      vcard:street-address "Antonie van Leeuwenhoeklaan 9" ;
+      vcard:locality "Bilthoven" ;
+      vcard:postal-code "3721 MA" ;
+      vcard:country-name "Netherlands"
+   ] ;
+   vcard:hasAddress [
+      rdf:type vcard:Address ;
+      rdfs:label "Correspondence Address" ;
+      vcard:post-office-box "P.O. Box 1" ;
+      vcard:locality "Bilthoven" ;
+      vcard:postal-code "3720 BA" ;
+      vcard:country-name "Netherlands"
+   ] ;
+   foaf:based_near [
+      rdf:type geo:SpatialThing ;
+      rdfs:label "Bilthoven, Netherlands" ;
+      geo:lat "52.1326" ;
+      geo:long "5.1813"
+   ] ;
+   foaf:member <https://w3id.org/odissei/ns/kg/cbs/organization/ministry-vws> .
+
+<https://w3id.org/odissei/ns/kg/cbs/organization/ministry-vws>
+   rdf:type foaf:Organization ;
+   foaf:name "Ministry of Health, Welfare and Sport" ;
+   foaf:name "Ministerie van Volksgezondheid, Welzijn en Sport"@nl ;
+   foaf:nick "VWS" ;
+   foaf:homepage <https://www.government.nl/ministries/ministry-of-health-welfare-and-sport> ;
+   rdfs:comment "The Netherlands Ministry of Health, Welfare and Sport is the owner of RIVM and provides the facilities needed for RIVM to do its work."@en .
+
