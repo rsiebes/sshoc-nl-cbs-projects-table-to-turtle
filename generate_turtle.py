@@ -51,6 +51,7 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         project_col = 'Projectnummer'
         start_date_col = 'Startdatum'
         end_date_col = 'Einddatum'
+        title_col = 'Onderzoek'
         
         if project_col not in df.columns:
             raise ValueError(f"Column '{project_col}' not found in Excel file")
@@ -58,14 +59,17 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
             raise ValueError(f"Column '{start_date_col}' not found in Excel file")
         if end_date_col not in df.columns:
             raise ValueError(f"Column '{end_date_col}' not found in Excel file")
+        if title_col not in df.columns:
+            raise ValueError(f"Column '{title_col}' not found in Excel file")
         
         print(f"Processing {len(df)} rows...")
         
-        # Get unique project numbers with their start and end dates
-        # Group by project number and take the first start date and end date for each project
+        # Get unique project numbers with their start dates, end dates, and titles
+        # Group by project number and take the first occurrence of each field
         unique_projects = df.groupby(project_col).agg({
             start_date_col: 'first',
-            end_date_col: 'first'
+            end_date_col: 'first',
+            title_col: 'first'
         }).reset_index()
         unique_projects = unique_projects.dropna(subset=[project_col])
         
@@ -77,6 +81,7 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         # Add prefixes
         turtle_content.append("@prefix schema: <http://schema.org/> .")
         turtle_content.append("@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .")
+        turtle_content.append("@prefix dc: <http://purl.org/dc/elements/1.1/> .")
         turtle_content.append("")
         
         # Process each unique project
@@ -85,6 +90,7 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
             project_number = row[project_col]
             start_date = row[start_date_col]
             end_date = row[end_date_col]
+            title = row[title_col]
             
             # Skip if project number is not valid
             if pd.isna(project_number) or project_number == '':
@@ -94,9 +100,9 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
             formatted_start_date = format_date_for_rdf(start_date)
             formatted_end_date = format_date_for_rdf(end_date)
             
-            # Skip if both dates are invalid
-            if formatted_start_date is None and formatted_end_date is None:
-                print(f"Warning: Skipping project {project_number} due to invalid dates")
+            # Skip if both dates are invalid and no title
+            if formatted_start_date is None and formatted_end_date is None and (pd.isna(title) or title == ''):
+                print(f"Warning: Skipping project {project_number} due to no valid data")
                 continue
             
             # Create URI
@@ -104,10 +110,19 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
             
             # Build properties list
             properties = []
+            
+            # Add title if available
+            if not pd.isna(title) and title != '':
+                # Escape quotes in title for proper RDF literal
+                escaped_title = str(title).replace('"', '\\"')
+                properties.append(f'   dc:title "{escaped_title}"')
+            
+            # Add startDate if valid
             if formatted_start_date is not None:
                 start_date_literal = f'"{formatted_start_date}"^^xsd:date'
                 properties.append(f"   schema:startDate {start_date_literal}")
             
+            # Add endDate if valid
             if formatted_end_date is not None:
                 end_date_literal = f'"{formatted_end_date}"^^xsd:date'
                 properties.append(f"   schema:endDate {end_date_literal}")
