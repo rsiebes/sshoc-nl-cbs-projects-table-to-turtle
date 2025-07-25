@@ -50,20 +50,26 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         # Use Dutch column names as found in the analysis
         project_col = 'Projectnummer'
         start_date_col = 'Startdatum'
+        end_date_col = 'Einddatum'
         
         if project_col not in df.columns:
             raise ValueError(f"Column '{project_col}' not found in Excel file")
         if start_date_col not in df.columns:
             raise ValueError(f"Column '{start_date_col}' not found in Excel file")
+        if end_date_col not in df.columns:
+            raise ValueError(f"Column '{end_date_col}' not found in Excel file")
         
         print(f"Processing {len(df)} rows...")
         
-        # Get unique project numbers with their start dates
-        # Group by project number and take the first start date for each project
-        unique_projects = df.groupby(project_col)[start_date_col].first().reset_index()
-        unique_projects = unique_projects.dropna(subset=[project_col, start_date_col])
+        # Get unique project numbers with their start and end dates
+        # Group by project number and take the first start date and end date for each project
+        unique_projects = df.groupby(project_col).agg({
+            start_date_col: 'first',
+            end_date_col: 'first'
+        }).reset_index()
+        unique_projects = unique_projects.dropna(subset=[project_col])
         
-        print(f"Found {len(unique_projects)} unique projects with start dates")
+        print(f"Found {len(unique_projects)} unique projects")
         
         # Generate Turtle RDF content
         turtle_content = []
@@ -78,24 +84,35 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         for _, row in unique_projects.iterrows():
             project_number = row[project_col]
             start_date = row[start_date_col]
+            end_date = row[end_date_col]
             
             # Skip if project number is not valid
             if pd.isna(project_number) or project_number == '':
                 continue
             
-            # Format the date
-            formatted_date = format_date_for_rdf(start_date)
-            if formatted_date is None:
-                print(f"Warning: Skipping project {project_number} due to invalid start date: {start_date}")
+            # Format the dates
+            formatted_start_date = format_date_for_rdf(start_date)
+            formatted_end_date = format_date_for_rdf(end_date)
+            
+            # Skip if both dates are invalid
+            if formatted_start_date is None and formatted_end_date is None:
+                print(f"Warning: Skipping project {project_number} due to invalid dates")
                 continue
             
-            # Create URI and RDF triple
+            # Create URI
             project_uri = f"<https://w3id.org/odissei/ns/kg/cbs/project/{project_number}>"
-            date_literal = f'"{formatted_date}"^^xsd:date'
             
-            # Add RDF triple
-            turtle_content.append(f"{project_uri} schema:startDate {date_literal} .")
-            valid_triples += 1
+            # Add startDate triple if valid
+            if formatted_start_date is not None:
+                start_date_literal = f'"{formatted_start_date}"^^xsd:date'
+                turtle_content.append(f"{project_uri} schema:startDate {start_date_literal} .")
+                valid_triples += 1
+            
+            # Add endDate triple if valid
+            if formatted_end_date is not None:
+                end_date_literal = f'"{formatted_end_date}"^^xsd:date'
+                turtle_content.append(f"{project_uri} schema:endDate {end_date_literal} .")
+                valid_triples += 1
         
         # Write to file
         print(f"Writing {valid_triples} RDF triples to: {output_file_path}")
