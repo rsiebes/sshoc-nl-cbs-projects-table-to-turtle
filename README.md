@@ -75,3 +75,8 @@ The generated Turtle file includes:
 
 That's it! Simple Excel-to-Turtle conversion with semantic enrichment.
 
+
+
+---
+*written via prompt engineering by Ronald Siebes - UCDS group - VU Amsterdam*
+
