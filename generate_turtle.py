@@ -83,11 +83,24 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         }).reset_index()
         unique_projects = unique_projects.dropna(subset=[project_col])
         
-        # Get unique datasets
+        # Get unique datasets and create consistent URI mapping
         unique_datasets = df[dataset_col].dropna().unique()
+        
+        # Create a consistent mapping from dataset names to URIs
+        # Use a fixed seed for reproducible random IDs
+        random.seed(42)  # Fixed seed for consistency
+        dataset_uri_mapping = {}
+        for dataset_name in unique_datasets:
+            random_id = generate_random_id(32)
+            dataset_uri_mapping[dataset_name] = f"https://w3id.org/odissei/ns/kg/cbs/dataset/{random_id}"
+        
+        # Get project-dataset relationships
+        project_dataset_pairs = df[[project_col, dataset_col]].dropna()
+        project_datasets = project_dataset_pairs.groupby(project_col)[dataset_col].apply(list).to_dict()
         
         print(f"Found {len(unique_projects)} unique projects")
         print(f"Found {len(unique_datasets)} unique datasets")
+        print(f"Found {len(project_dataset_pairs)} project-dataset relationships")
         
         # Generate Turtle RDF content
         turtle_content = []
@@ -141,6 +154,13 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
                 end_date_literal = f'"{formatted_end_date}"^^xsd:date'
                 properties.append(f"   schema:endDate {end_date_literal}")
             
+            # Add dc:requires properties for datasets
+            if project_number in project_datasets:
+                for dataset_name in project_datasets[project_number]:
+                    if dataset_name in dataset_uri_mapping:
+                        dataset_uri = f"<{dataset_uri_mapping[dataset_name]}>"
+                        properties.append(f"   dc:requires {dataset_uri}")
+            
             # Add grouped RDF statement
             if properties:
                 turtle_content.append(f"{project_uri}")
@@ -158,9 +178,8 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
             if pd.isna(dataset_name) or dataset_name == '':
                 continue
             
-            # Generate random 32-character alphanumeric ID
-            random_id = generate_random_id(32)
-            dataset_uri = f"<https://w3id.org/odissei/ns/kg/cbs/dataset/{random_id}>"
+            # Use the consistent URI from mapping
+            dataset_uri = f"<{dataset_uri_mapping[dataset_name]}>"
             
             # Escape quotes in dataset name for proper RDF literal
             escaped_dataset_name = str(dataset_name).replace('"', '\\"')
