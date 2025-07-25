@@ -29816,7 +29816,7 @@ Netherlands: Victor study" ;
    dc:alternative "KINDOUDERTAB" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/uhaFVBliyIToGJ1QZwez3VcBbD6e3uKB>
-   dc:alternative "MAATWERK\stapelingsmonitor" .
+   dc:alternative "MAATWERK\\stapelingsmonitor" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/KzTOAshzb9ukZ8ND1S6xfB2gpBLzHfz3>
    dc:alternative "SECMDTFBUS" .
@@ -30356,7 +30356,7 @@ Netherlands: Victor study" ;
    dc:alternative "GEBWMOTAB" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/5L3bEhqeyOYoRSoZuA9wHIaS1qpsfzRV>
-   dc:alternative "MAATWERK\VER" .
+   dc:alternative "MAATWERK\\VER" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/0veJ7lEuwn5Krl8VR76mFVmpVp3qnom1>
    dc:alternative "Vrijwillig_eigen_risico" .
@@ -30461,7 +30461,7 @@ Netherlands: Victor study" ;
    dc:alternative "HO" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/UjSSQbyL5QHcqkdsmYSNrdDP8aeyQrQ2>
-   dc:alternative "MAATWERK\ASIELCOHORT" .
+   dc:alternative "MAATWERK\\ASIELCOHORT" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/6Qx3gbs34PyoyGTg5uF3MIflmG9DJ7Tb>
    dc:alternative "SCHTAB" .
@@ -32666,7 +32666,7 @@ Netherlands: Victor study" ;
    dc:alternative "GRBSTAB" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/tJTuSsoZPjZKHDALJKn32AwiMqr9EXhA>
-   dc:alternative "MAATWERK\SCPSOCIAALDOMEIN" .
+   dc:alternative "MAATWERK\\SCPSOCIAALDOMEIN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/1Uf9NYUG7jEmZtZIfn5XUXecqvcjwXJQ>
    dc:alternative "MICAOTOTPERSOONBUS" .
@@ -32819,7 +32819,7 @@ Netherlands: Victor study" ;
    dc:alternative "EBBWWZ" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/sQzoK1UEQxyeuUrYEcxuqKeZl7OQexfB>
-   dc:alternative "MAATWERK\EBBWWZ" .
+   dc:alternative "MAATWERK\\EBBWWZ" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/UreeKX6RvvBrbK7QfKUyLnLuCJFwZldE>
    dc:alternative "7764_k16012_CBKV1" .
@@ -33209,7 +33209,7 @@ Netherlands: Victor study" ;
    dc:alternative "GBASTANDBEVOLKINGTAB" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/x6eyEUxWZTJySszTYpoQ37N3votJffau>
-   dc:alternative "MAATWERK\Verwachte_Onderwijsscores_Leerjaar" .
+   dc:alternative "MAATWERK\\Verwachte_Onderwijsscores_Leerjaar" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/b0h4Wr6FAqXjFG0ZLYB29huEpJvuVW63>
    dc:alternative "7839_2018_CaSaVe_voorCBS_part1CBKV1" .
@@ -33374,7 +33374,7 @@ Netherlands: Victor study" ;
    dc:alternative "7885KlantenquetePW2019110619CBKV1" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/m8CXchEd7MjAOtcC4dnbGOIcHO5392eD>
-   dc:alternative "MAATWERK\DOELGROEPENREGISTER" .
+   dc:alternative "MAATWERK\\DOELGROEPENREGISTER" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/kzjHkM8AJlP3Xs1t1HuW8bQ2bDjHGQL9>
    dc:alternative "SRGREINTEGRATIEPOSITIEBUS" .
@@ -33629,7 +33629,7 @@ Netherlands: Victor study" ;
    dc:alternative "8017JUROUT18_WODC_Voorlopig" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/QOpmX7bZjB92Ow7VbKUPLyT0lhJ5mAyC>
-   dc:alternative "MAATWERK\8017JUROUT18_WODC_DEF" .
+   dc:alternative "MAATWERK\\8017JUROUT18_WODC_DEF" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/DhMVyAAB8eaiuVz6prlZ86ciY21iiRSo>
    dc:alternative "8018_ldp_jobc_ibw_2017_levering_1CBKV1" .
@@ -33743,16 +33743,16 @@ Netherlands: Victor study" ;
    dc:alternative "8061PRIMSW1C1_SAP_CBS_stdid_subset_CBKV1" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/SGCXZg4aa9O0AAIMdRrZWgFiIjaEAkmG>
-   dc:alternative "MAATWERK\NCO\NCOACHTERGRONDSTABIEL" .
+   dc:alternative "MAATWERK\\NCO\\NCOACHTERGRONDSTABIEL" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/Uhhw3YQkiojJjllJjsaIrEu3jHmwMLMt>
-   dc:alternative "MAATWERK\NCO\NCOPORUG" .
+   dc:alternative "MAATWERK\\NCO\\NCOPORUG" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/carfcUWJrCMZhox4YgTh7pwQb028Xumu>
-   dc:alternative "MAATWERK\NCO\NCOPOUITRUG" .
+   dc:alternative "MAATWERK\\NCO\\NCOPOUITRUG" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/9X8C7jkXPHLi70aY7BshOS7Qx9FJcMWD>
-   dc:alternative "MAATWERK\NCO\NCOPO" .
+   dc:alternative "MAATWERK\\NCO\\NCOPO" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/Hpbi7Ib2eb5tgNs63T8vpteNv3WiYWGW>
    dc:alternative "NEA_2014_tm_2016_RA8061_additioneelberoep" .
@@ -33788,7 +33788,7 @@ Netherlands: Victor study" ;
    dc:alternative "HODEF" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/wWcnh1oLkGctIX80waljcAgQLdgKpPpn>
-   dc:alternative "MAATWERK\NCO\NCOPODEF" .
+   dc:alternative "MAATWERK\\NCO\\NCOPODEF" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/xNoFMFfMdadPblTLPvBgyjl1vyTTRrSF>
    dc:alternative "MBODEF" .
@@ -33845,10 +33845,10 @@ Netherlands: Victor study" ;
    dc:alternative "8073NSCReindbestandreferentiepopulatie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/qNxW3f6K7nxd0P43aeg5vszhEwY5HTS5>
-   dc:alternative "MAATWERK\8073180305NSCReindbestanddaders" .
+   dc:alternative "MAATWERK\\8073180305NSCReindbestanddaders" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/TPdI4dn8HUGKOWUVcsqOedsdrpewzy5G>
-   dc:alternative "MAATWERK\8073NSCReindbestandreferentiepopulatie" .
+   dc:alternative "MAATWERK\\8073NSCReindbestandreferentiepopulatie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/veRn1vmHOPgrGPnEtDuwGdmcNOag7zH7>
    dc:alternative "8075_Diversiteit_aanmeldgedrag_en_studiesucces_UUCBKV1" .
@@ -33944,7 +33944,7 @@ Netherlands: Victor study" ;
    dc:alternative "incidentenjjjjN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/qSZKCxpE8YVOsbSZuF4YSfZPWrtz8Q9M>
-   dc:alternative "MAATWERK\INCIDENTEN" .
+   dc:alternative "MAATWERK\\INCIDENTEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/x5ARX6FqdUyI5FYnxPtq8xoqvUeryPB5>
    dc:alternative "slachtoffersjjjjN" .
@@ -34028,10 +34028,10 @@ Netherlands: Victor study" ;
    dc:alternative "INSTROOMOMTAB" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/Io8bxxFnDgmI22HEVs0ckUinRP7TW9sQ>
-   dc:alternative "MAATWERK\8165RDW" .
+   dc:alternative "MAATWERK\\8165RDW" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/y9ettYz4ylFBnUnas8RheZDAXgRtlOQg>
-   dc:alternative "MAATWERK\CDD\RDW_park_tbv_zoo" .
+   dc:alternative "MAATWERK\\CDD\\RDW_park_tbv_zoo" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/xlsGohMzIVAn47AqEb1qyuyIKyLG5E7b>
    dc:alternative "UitstroomOM_delicten" .
@@ -34076,31 +34076,31 @@ Netherlands: Victor study" ;
    dc:alternative "8200TNO_alle_provinciesCBKV1" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/AzGee4nn9NEm7BCbESihEQoTsaT6ltiP>
-   dc:alternative "MAATWERK\VWSMAATWERK\AWBZ_WMO_WLZ" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\AWBZ_WMO_WLZ" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/kPkV28rgSNH4Y1UoZZdAR6plUpBut5ag>
-   dc:alternative "MAATWERK\VWSMAATWERK\AWBZ" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\AWBZ" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/5IgPYtsrksWJ32rjQQbkSrpZ1WxaSMtC>
-   dc:alternative "MAATWERK\VWSMAATWERK\GBA" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\GBA" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/AwS58fhQVGBQevAraNZKsgtFwmNINTe5>
-   dc:alternative "MAATWERK\VWSMAATWERK\INKOMENVERMOGEN" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\INKOMENVERMOGEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/mDcut1Oit1ufRONdG60ly3eQ50XebPmu>
-   dc:alternative "MAATWERK\VWSMAATWERK\MEDICIJNEN" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\MEDICIJNEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/yuNrlVKLlcO9lpEyTyBLQ7BMlXkKwooI>
-   dc:alternative "MAATWERK\VWSMAATWERK\SOCIAALECONKENMERKEN" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\SOCIAALECONKENMERKEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/yfKqf1eO0IYWmMRb1NYoYYtirPO2jsay>
-   dc:alternative "MAATWERK\VWSMAATWERK\ZORGINK" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\ZORGINK" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/BRlGVmrAmmZtRHIMo8pqnExg89VHyB5N>
-   dc:alternative "MAATWERK\VWSMAATWERK\ZORGUITG" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\ZORGUITG" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/qUcGBXZxZslspUJly8N8iJvvbCrnv01b>
-   dc:alternative "MAATWERK\VWSMAATWERK\ZVWKOSTEN" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\ZVWKOSTEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/K3wkW2JO57HZNxMr46E1O3apKBZ5M39B>
    dc:alternative "8210_aandoeningen_20112015CBKV4" .
@@ -34316,7 +34316,7 @@ Netherlands: Victor study" ;
    dc:alternative "8280-steekproefpopulatie_update_def_TNOincleneco_tlvGC" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/0PPIgSLnC18UBGtXgIX5r3F8fqyQikb8>
-   dc:alternative "MAATWERK\ecn_analyse_2018_TNO" .
+   dc:alternative "MAATWERK\\ecn_analyse_2018_TNO" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/eqQHpmpurd5ghlCkIn6yamaGE4Xz6sD6>
    dc:alternative "MAATWERKecn_analyse_2018_TNO_v3" .
@@ -34349,10 +34349,10 @@ Netherlands: Victor study" ;
    dc:alternative "8312_2-181106Polis_SelectieInOWP" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/IZoWOOJLunpCyJqhWJDW1zDD3QB2dayr>
-   dc:alternative "MAATWERK\8312_1-181107OWP_InlezenSPSS_Freq" .
+   dc:alternative "MAATWERK\\8312_1-181107OWP_InlezenSPSS_Freq" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/otu89P1T7LZTDROQ1o1fOWEWpcoolqLY>
-   dc:alternative "MAATWERK\8312_2-181106Polis_SelectieInOWP" .
+   dc:alternative "MAATWERK\\8312_2-181106Polis_SelectieInOWP" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/AV1UUCv6WF5q3vhXatIr5I2cLtS3CUZn>
    dc:alternative "7731_Innovatiebox_VPB_NettoenVoortbrengingskosten" .
@@ -34760,7 +34760,7 @@ Netherlands: Victor study" ;
    dc:alternative "INCIDENTEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/qREY4lfqBfDlFvIdZrwZjN15lBC381BN>
-   dc:alternative "MAATWERK\VERDACHTEN" .
+   dc:alternative "MAATWERK\\VERDACHTEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/6GHPNDLIHD8EvsrvGq4CWs9eprah6N7i>
    dc:alternative "NABIJHEIDVERKEERTAB" .
@@ -34841,7 +34841,7 @@ Netherlands: Victor study" ;
    dc:alternative "ASIELCOHORTCorrectie Nationaliteit" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/RNBSl5DBIAflFps0ihXhjbXkNf4STnGf>
-   dc:alternative "MAATWERK\ASIELCOHORT\8435_06g-190201 Correctie Nationaliteit" .
+   dc:alternative "MAATWERK\\ASIELCOHORT\\8435_06g-190201 Correctie Nationaliteit" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/ocfsL2tJckNH8MdJIPHTeLyRAtZxkmh0>
    dc:alternative "NSN" .
@@ -36371,7 +36371,7 @@ Netherlands: Victor study" ;
    dc:alternative "CollectieveData" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/fWvXFg7Bc5rly880fq16XqCf5Avc2qqX>
-   dc:alternative "MAATWERK\CollectieveData" .
+   dc:alternative "MAATWERK\\CollectieveData" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/gxlBqs9wRQGVOjM5YAVMsUxqfQR1KZ4h>
    dc:alternative "880320201104_export1_Osiris_GGDRRCBKV1" .
@@ -38117,7 +38117,7 @@ Netherlands: Victor study" ;
    dc:alternative "CDF_ABRMAATWERK" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/65I6eUyKmYrULhaYy6DBNH5E1ec1hsNt>
-   dc:alternative "MAATWERK\CDF\ABRMAATWERK" .
+   dc:alternative "MAATWERK\\CDF\\ABRMAATWERK" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/ffYZ8XBo1lJjVjxhKyqXi66L7vGOyhBC>
    dc:alternative "9121Admission_data_websitesCBKV1" .
@@ -40808,10 +40808,10 @@ Netherlands: Victor study" ;
    dc:alternative "8186_180801verhogingsaanvragen_versl" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/34Bw2AxIqcslOT17LfPdn0CrL8CmBtxA>
-   dc:alternative "MAATWERK\EZKRVO\Innovatiekrediet" .
+   dc:alternative "MAATWERK\\EZKRVO\\Innovatiekrediet" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/Fek0fSktMJU2CBO5teuwE134V0QihRp9>
-   dc:alternative "MAATWERK\EZKRVO\NVP" .
+   dc:alternative "MAATWERK\\EZKRVO\\NVP" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/7eSNfpLyH6pZL3S4dkYZGkKCBFUllXbF>
    dc:alternative "8190_Bestandregelingen2014CBKV1" .
@@ -40895,7 +40895,7 @@ Netherlands: Victor study" ;
    dc:alternative "voorschool_versl" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/KfmSrNDph440b9xnJHHPQMogWkNTat34>
-   dc:alternative "MAATWERK\ARMOEDE\8283_Selectie_2016" .
+   dc:alternative "MAATWERK\\ARMOEDE\\8283_Selectie_2016" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/VrkG410jpVAhBcWfbQN6FjV1JNO8nTIk>
    dc:alternative "8300_4a181003KoppeltabelCohort2011CBKV1" .
@@ -40952,7 +40952,7 @@ Netherlands: Victor study" ;
    dc:alternative "8369persoonsgegevensCBKV1" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/YthxjpJCC8ZWHFZdXbaKHvr6wdAOMnZv>
-   dc:alternative "MAATWERK\VWSMAATWERK\GBA_DOODSOORZAKEN" .
+   dc:alternative "MAATWERK\\VWSMAATWERK\\GBA_DOODSOORZAKEN" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/OEzpQnG3Phlm4u1t8P8m8PnBc9zjanFA>
    dc:alternative "VWSMAATWERK_D5_DBC_GGZ_MSZ" .
@@ -41234,7 +41234,7 @@ Netherlands: Victor study" ;
    dc:alternative "WPOADVIESHERZ" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/4dZI0njV16f5lg21XBg565WY9P5CAiw8>
-   dc:alternative "MAATWERK\BIJSTANDPERSOONJAARBEDRAG2018TABV1_VOORLOPIG" .
+   dc:alternative "MAATWERK\\BIJSTANDPERSOONJAARBEDRAG2018TABV1_VOORLOPIG" .
 
 <https://w3id.org/odissei/ns/kg/cbs/dataset/fWYKDn1RgObjYOQMHO0pngjBu7ZjPGga>
    dc:alternative "8498_2020100206_voorCBS_datasetCBKV1" .
