@@ -9,6 +9,8 @@ with project URIs and schema:startDate properties.
 import pandas as pd
 import sys
 import os
+import random
+import string
 from datetime import datetime
 
 def format_date_for_rdf(date_value):
@@ -40,6 +42,11 @@ def format_date_for_rdf(date_value):
         print(f"Warning: Could not format date '{date_value}': {e}")
         return None
 
+def generate_random_id(length=32):
+    """Generate a random alphanumeric string of specified length."""
+    characters = string.ascii_letters + string.digits
+    return ''.join(random.choice(characters) for _ in range(length))
+
 def generate_turtle_rdf(excel_file_path, output_file_path):
     """Generate Turtle RDF file from Excel data."""
     try:
@@ -52,6 +59,7 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         start_date_col = 'Startdatum'
         end_date_col = 'Einddatum'
         title_col = 'Onderzoek'
+        dataset_col = 'Bestandsnaam'
         
         if project_col not in df.columns:
             raise ValueError(f"Column '{project_col}' not found in Excel file")
@@ -61,6 +69,8 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
             raise ValueError(f"Column '{end_date_col}' not found in Excel file")
         if title_col not in df.columns:
             raise ValueError(f"Column '{title_col}' not found in Excel file")
+        if dataset_col not in df.columns:
+            raise ValueError(f"Column '{dataset_col}' not found in Excel file")
         
         print(f"Processing {len(df)} rows...")
         
@@ -73,7 +83,11 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
         }).reset_index()
         unique_projects = unique_projects.dropna(subset=[project_col])
         
+        # Get unique datasets
+        unique_datasets = df[dataset_col].dropna().unique()
+        
         print(f"Found {len(unique_projects)} unique projects")
+        print(f"Found {len(unique_datasets)} unique datasets")
         
         # Generate Turtle RDF content
         turtle_content = []
@@ -138,12 +152,31 @@ def generate_turtle_rdf(excel_file_path, output_file_path):
                 turtle_content.append("")  # Empty line between subjects
                 valid_projects += 1
         
+        # Process each unique dataset
+        valid_datasets = 0
+        for dataset_name in unique_datasets:
+            if pd.isna(dataset_name) or dataset_name == '':
+                continue
+            
+            # Generate random 32-character alphanumeric ID
+            random_id = generate_random_id(32)
+            dataset_uri = f"<https://w3id.org/odissei/ns/kg/cbs/dataset/{random_id}>"
+            
+            # Escape quotes in dataset name for proper RDF literal
+            escaped_dataset_name = str(dataset_name).replace('"', '\\"')
+            
+            # Add dataset RDF statement
+            turtle_content.append(f"{dataset_uri}")
+            turtle_content.append(f'   dc:alternative "{escaped_dataset_name}" .')
+            turtle_content.append("")  # Empty line between subjects
+            valid_datasets += 1
+        
         # Write to file
-        print(f"Writing {valid_projects} projects to: {output_file_path}")
+        print(f"Writing {valid_projects} projects and {valid_datasets} datasets to: {output_file_path}")
         with open(output_file_path, 'w', encoding='utf-8') as f:
             f.write('\n'.join(turtle_content))
         
-        print(f"Successfully generated Turtle RDF file with {valid_projects} projects")
+        print(f"Successfully generated Turtle RDF file with {valid_projects} projects and {valid_datasets} datasets")
         return True
         
     except Exception as e:
