@@ -245,7 +245,6 @@ def process_excel_to_turtle():
     for org_uri, org_data in organizations.items():
         turtle_content.extend([
             f"<{org_uri}>",
-            f'   rdf:type foaf:Organization ;',
             f'   rdf:type {org_data["type"]} ;',
             f'   foaf:name "{org_data["name"]}" .',
             ""

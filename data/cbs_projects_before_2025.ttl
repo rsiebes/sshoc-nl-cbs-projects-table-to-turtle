@@ -41480,1521 +41480,1217 @@ Netherlands: Victor study" ;
 
 # Organizations
 <https://w3id.org/odissei/ns/kg/cbs/organization/rijksinstituut_voor_volksgezondheid_en_milieu>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rijksinstituut voor Volksgezondheid en Milieu" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_groningen>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Groningen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/seo_economisch_onderzoek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "SEO Economisch Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidenfaculteit_rechten>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Leiden_faculteit rechten" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_sociale_zaken_en_werkgelegenheid_di>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ministerie van Sociale Zaken en Werkgelegenheid, Directie Financieel-Economische Zaken" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamerasmus_school_of_he>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Erasmus Universiteit Rotterdam_Erasmus School of Health Policy & Management " .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/umsbeunited_nations_university_economic_research_i>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "UM_SBE_United Nations University, Economic Research Institute on Innovation and Technology" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamschool_of_business_and>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Vrije Universiteit Amsterdam_School of Business and Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/wetenschappelijk_onderzoeks_en_documentatiecentrum>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Wetenschappelijk Onderzoeks- en DocumentatieCentrum" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/centraal_planbureau>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Centraal Planbureau" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamerasmus_school_of_ec>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Erasmus Universiteit Rotterdam_Erasmus School of Economics_Econometrisch Instituut" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtschool_of_business_and_econ>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Maastricht_School of Business and Economics_Researchcentrum Onderwijs en Arbeidmarkt" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tno_kwaliteit_van_leven_arbeid>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "TNO Kwaliteit van Leven, Arbeid" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_birmingham_business_school>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Birmingham, Business School" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_samenwerking_beroepsonderwijs_en_bedrijf>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting Samenwerking Beroepsonderwijs en Bedrijfsleven, team ABD" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_rotterdam_dienstencentrum_onderzoek_en_bu>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Rotterdam, Dienstencentrum Onderzoek en Business Intelligence" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_instituut_voor_onderzoek_vd_gezondheids>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nederlands Instituut voor Onderzoek v/d Gezondheidszorg" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_der_maatschapp>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit van Amsterdam_Faculteit der Maatschappij- en Gedragswetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/academisch_medisch_centrum_amsterdam_amc_uva>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Academisch Medisch Centrum Amsterdam (AMC) - UvA" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_economie_en_be>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit van Amsterdam_Faculteit Economie en Bedrijfskunde" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delftfaculteit_bouwkunde_u>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technische Universiteit Delft_Faculteit Bouwkunde_ Urbanism" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/london_school_of_economics_economics_department>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "London School of Economics, Economics Department" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_dbd>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector DBD" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ggd_westbrabant_team_onderzoek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "GGD West-Brabant, Team Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtfaculty_of_health_medicine_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Maastricht_Faculty of Health, Medicine and Life Sciences" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamfaculteit_gedrags_en_b>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Vrije Universiteit Amsterdam_Faculteit Gedrags en Bewegingswetenschap_Center for Learning Analytics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_den_haag_sociale_zaken_en_werkgelegenheid>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Den Haag, Sociale zaken en Werkgelegenheidsprojecten, Team Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tno_nederlandse_organisatie_voor_toegepastnatuurwe>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "TNO (Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/abf_research_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "ABF Research BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_rigo>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting Rigo" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/amsterdam_health_technology_institute_ahti>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Amsterdam Health & Technology Institute (AHTI)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/afm_stichting_autoriteit_financile_markten_team_ri>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "AFM, Stichting Autoriteit Financiële Markten, team Risicoanalyse (EC-SRA)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_chicago_department_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Chicago, Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_onderwijs_cultuur_en_wetenschappen_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ministerie van Onderwijs Cultuur en Wetenschappen, DUO, Afdeling Informatieproducten" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamerasmus_school_of_so>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Erasmus Universiteit Rotterdam_Erasmus School of Social and Behavioural Sciences" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_princetons_center_for_health_and_wel>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Princeton's Center for Health and Wellbeing" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_toronto_department_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Toronto Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_almere_afdeling_bestuursadvies_en_onderst>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Almere, afdeling Bestuursadvies en ondersteuning, Team Onderzoek en Statistiek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_bath_school_of_management>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Bath, School of Management" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nederlandse_zorgautoriteiteconomisch_medisch_burea>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nederlandse Zorgautoriteit_Economisch Medisch Bureau" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/harvard_university_department_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Harvard University Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/bureau_bartels_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Bureau Bartels B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/catharina_ziekenhuis_wetenschapsbureau_van_de_serv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Catharina Ziekenhuis, Wetenschapsbureau van de service-eenheid Onderwijs & Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_rechtenamsterd>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit van Amsterdam_Faculteit Rechten_Amsterdam Institute for Advanced Labour Studies" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/hanzehogeschool_lectoraat_healthy_ageing_allied_he>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Hanzehogeschool, Lectoraat Healthy Ageing, Allied Health Care and Nursing" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_voor_economisch_onderzoek_rotterdam_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting voor Economisch Onderzoek Rotterdam BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_leiden>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Leiden" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_het_nederlands_kanker_instituutantoni_va>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting Het Nederlands Kanker Instituut-Antoni van Leeuwenhoek Ziekenhuis" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrecht>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Utrecht" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/panteia_branches_en_data_strategisch_onderzoek_bed>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Panteia, Branches en data, Strategisch onderzoek, Bedrijfslevenbeleid, Arbeidsmarkt en onderwijs" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/sociaal_en_cultureel_planbureau>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Sociaal en Cultureel Planbureau" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_erasmus_rotterdam>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Erasmus Rotterdam" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/uitvoeringsinstituut_werknemersverzekeringen_dir_s>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Uitvoeringsinstituut Werknemersverzekeringen, Dir. Strategie, beleid, kenniscentrum, Kenniscentrum" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/kba_nijmegenfreihov_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "KBA Nijmegen_Freihov B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_amsterdam_dienst_onderzoek_en_statistiek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Amsterdam, Dienst Onderzoek en Statistiek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/open_universiteit>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Open Universiteit" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/planbureau_voor_de_leefomgevingruimtelijk_planbure>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Planbureau voor de Leefomgeving_Ruimtelijk Planbureau" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/boekmanstichting>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Boekmanstichting" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/mulier_instituut>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Mulier Instituut" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stec_groep_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stec Groep B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_financin_directie_algemene_financil>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ministerie van Financiën, directie Algemene Financiële en Economische Politiek, afdeling Analytics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_den_haag_business_analytics_dienst_ocw>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Den Haag, Business Analytics dienst OCW" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/kohnstamm_instituut_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Kohnstamm Instituut BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdam>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Erasmus Universiteit Rotterdam" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/significant_public>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Significant Public" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/io_research_enschede>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "I&O Research Enschede" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/caop>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CAOP" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_groningen_afdeling_onderzoek_statistiek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Groningen, Afdeling Onderzoek & statistiek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leiden>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Leiden" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ggd_zuid_limburg_kennis_innovatie>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "GGD Zuid Limburg, Kennis & Innovatie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/researchned_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "ResearchNed B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_sal>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector SAL" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/economisch_instituut_voor_de_bouw>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Economisch Instituut voor de Bouw" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/centraal_instituut_voor_toetsontwikkeling_afdeling>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Centraal Instituut voor Toetsontwikkeling, Afdeling Psychometrie en Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_studiecentrum_criminaliteit_en_rechtsha>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nederlands Studiecentrum Criminaliteit en Rechtshandhaving" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_university_school_of_economics_and_managem>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Tilburg University_ School of Economics and Management" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_ses>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector SES" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_utrechtjulius_centrum>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Utrecht_Julius Centrum" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtfaculteit_sociale_wetenschappe>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Utrecht_Faculteit Sociale Wetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_ebh>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector EBH" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_ruimtelijke_w>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rijksuniversiteit Groningen_Faculteit Ruimtelijke Wetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_szw_nederlandse_arbeidsinspectie_vakgro>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ministerie SZW, Nederlandse Arbeidsinspectie, vakgroep Analyse en Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/significance>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Significance" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidensociale_wetenschappen>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Leiden_Sociale Wetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/atriv_team_onderzoek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Atrivé, Team Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_colorado_leeds_school_of_business>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Colorado, Leeds School of Business" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_university_wageningen_economic_research>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Wageningen University, Wageningen Economic Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_drd>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector DRD" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/regioplan_beleidsonderzoek_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Regioplan Beleidsonderzoek B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_febtop_institu>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit van Amsterdam_Faculteit FEB_Top Institute for Evidence Based Education Research (TIER)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universitylaw_schoolreflect>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Tilburg University_Law School_ReflecT" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtfaculteit_geowetenschappen>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Utrecht_Faculteit Geowetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_eindhovendepartment_built_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technische Universiteit Eindhoven_Department Built Environment" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/companen_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Companen B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_jeugd_instituut_vakgroep_kwaliteit_bele>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nederlands Jeugd Instituut, Vakgroep kwaliteit, beleid en monitoring" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/zb_planbureau_en_bibliotheek_van_zeeland>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "ZB Planbureau en Bibliotheek van Zeeland" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtutrecht_faculteit_recht_econom>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Utrecht_Utrecht Faculteit Recht Economie Bestuur en Organisatie_School of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_gedrags_en_ma>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rijksuniversiteit Groningen_Faculteit Gedrags en Maatschappijwetenschappen_GION" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/verweyjonker_instituut>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Verwey-Jonker Instituut" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_singapore_humanities_arts_and_social>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Singapore, Humanities, Arts and Social Sciences" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/trinomics_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Trinomics B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tno_kwaliteit_van_leven>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "TNO Kwaliteit van Leven" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdammedisch_centrumemgo_in>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Vrije Universiteit Amsterdam_Medisch Centrum_EMGO Instituut voor naar gezondheid en zorg_afdeling So" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_erasmus_rotterdaminst>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Erasmus Rotterdam_Instituut Maatschappelijke Gezondheidszorg" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtschool_of_science_and_engin>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Maastricht_School of Science and Engineering_TIER" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdam_medisch_centrum_vumc>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Vrije Universiteit Amsterdam Medisch Centrum (VUMC)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_twenteengineering_technology>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Twente_Engineering Technology" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/centrum_voor_wiskunde_en_informatica>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Centrum voor Wiskunde en Informatica" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/planbureau_voor_de_leefomgevingmilieu_en_natuurpla>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Planbureau voor de Leefomgeving_Milieu en NatuurPlanbureau" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/dnb_div_econ_beleidonderz_div_financile_stabilitei>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "DNB, Div. Econ beleid&onderz., Div. Financiële stabiliteit, afd. Strategie vd  Div. Toezicht beleid" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_dvo>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector DVO" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ape_public_economics_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "APE Public Economics bv" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_science_and_e>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rijksuniversiteit Groningen_Faculteit Science and Engineering" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamfaculteit_der_rechtsge>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Vrije Universiteit Amsterdam_Faculteit der Rechtsgeleerdheid" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/harvard_medical_school>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Harvard Medical School" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_utrecht>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Utrecht" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/energieonderzoek_centrum_nederland>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Energieonderzoek Centrum Nederland" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/algemene_rekenkamer>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Algemene Rekenkamer" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_gothenburg_department_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Gothenburg Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/pennsylvania_state_university>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Pennsylvania State University" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tohoku_university_graduate_school_of_economics_and>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Tohoku University Graduate School of Economics and Management" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ggd_hart_voor_brabant_team_onderzoek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "GGD Hart voor Brabant, Team Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/planbureau_voor_de_leefomgeving>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Planbureau voor de Leefomgeving" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/boston_college_center_for_retirement_research>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Boston College, Center for Retirement Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_tympaan_instituut>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting Tympaan Instituut" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_radboud_nijmegen>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Radboud Nijmegen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/dialogic_innovatie_interactie_vof>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Dialogic Innovatie & Interactie VOF" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdamfaculteit_fmgamsterdam_i>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit van Amsterdam_Faculteit FMG_Amsterdam Institute for Social Sience Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_groningeneurocat>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Groningen_Eurocat" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningenfaculteit_economie_en_b>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rijksuniversiteit Groningen_Faculteit Economie en Bedrijfskunde" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_sqs>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector SQS" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/radboud_universiteit_nijmegenfaculteit_management_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Radboud Universiteit Nijmegen_Faculteit Management Wetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_ebd>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector EBD" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_utrechtfaculteit_diergeneeskundeinsti>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Utrecht_Faculteit Diergeneeskunde_Institute for Risk Assessment Sciences" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_oxford_department_of_politics_intern>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Oxford, Department of Politics & International Relations" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/c6volg>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "C6Volg" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_hasselt>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Hasselt" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leideninstitute_of_security_and_globa>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Leiden_Institute of Security and Global Affaires" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_volksgezondheid_welzijn_sport_direc>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ministerie van Volksgezondheid Welzijn & Sport, Directie MEVA, Afdeling Algemeen Economisch Beleid" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/pyrrhula_research_consultants_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Pyrrhula Research Consultants BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/goudappel_bv_afdeling_beleids_en_gedragsonderzoek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Goudappel BV, Afdeling Beleids- en Gedragsonderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_sbm>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector SBM" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/bern_university_of_applied_sciences_school_of_soci>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Bern University of Applied Sciences, School of Social Work" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stanford_university_immigration_policy_lab>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stanford University, Immigration Policy lab" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_wageningen_research_wageningen_economic_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting Wageningen Research - Wageningen Economic Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/hogeschoolutrecht_lectoraat_werken_in_justitieel_k>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "HogeschoolUtrecht, Lectoraat Werken in Justitieel Kader" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteiterasmus_school_of_economicsera>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Erasmus Universiteit_Erasmus School of Economics_Erasmus Happiness Economics Research Organisation" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/wetenschappelijke_raad_voor_het_regeringsbeleid>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Wetenschappelijke Raad voor het Regeringsbeleid" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/columbia_university_department_of_psychology>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Columbia University, Department of Psychology" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_utrecht_afdeling_onderzoek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Utrecht, Afdeling Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/integraal_kankercentrum_nederland_research>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Integraal Kankercentrum Nederland, Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/andersson_elffers_felix_aef>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Andersson Elffers Felix (AEF)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nationaal_instituut_voor_budgetvoorlichting>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nationaal Instituut voor Budgetvoorlichting" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rotterdams_instituut_voor_sociaalwetenschappelijk_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rotterdams Instituut voor Sociaal-Wetenschappelijk BeleidsOnderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/panteiaresearch_voor_beleid>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Panteia_Research voor Beleid" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/miniw_inspectie_leefomgeving_en_transport_informat>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "MinIW, Inspectie Leefomgeving en Transport, Informatieproducten en programmeren, Innovatie- en Data" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/markt_monitor_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Markt Monitor B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/centerdata_research_institute>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Centerdata Research Institute" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ecorys>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "ECORYS" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rekenkamer_gemeente_den_haag>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rekenkamer Gemeente Den Haag" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitt_bonn_institute_for_macroeconomics_and_e>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universität Bonn, Institute for Macroeconomics and Econometrics (IME)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/explica>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Explica" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_den_haag_team_onderzoek_afdeling_sepo>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Den Haag,, Team Onderzoek Afdeling SEPO" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/national_institute_of_economic_and_social_research>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "National Institute of Economic and Social Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/epsilon_research>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Epsilon Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/de_argumentenfabriek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "De Argumentenfabriek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/equalis_strategy_modeling_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Equalis Strategy & Modeling BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/kennispunt_twente>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Kennispunt Twente" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universitytilburg_school_of_social_and_beh>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Tilburg University_Tilburg School of Social and Behavioral Sciences_Dept. Sociologie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/sp_wetenschappelijk_bureau>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "SP, Wetenschappelijk Bureau" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/het_pon_telos>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Het Pon & Telos" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/deloitte_consulting_bv_afdeling_analytics_informat>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Deloitte Consulting B.V. afdeling Analytics & Information Management" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/decisio_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Decisio B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nationaal_regieorgaan_onderwijsonderzoek_nronwo>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nationaal Regieorgaan Onderwijsonderzoek (NRO-NWO)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/trimbos_instituut>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Trimbos Instituut" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tno_energy_and_comfort_systems>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "TNO Energy and Comfort Systems" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_leicester_business_school>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Leicester Business School" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/leibnizzentrum_fr_europische_wirtschaftsforschung_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Leibniz-Zentrum für Europäische Wirtschaftsforschung GmbH" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/radboud_universiteit_nijmegen>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Radboud Universiteit Nijmegen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/bureau_beke>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Bureau Beke" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_infrastructuur_en_waterstaatkennisi>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ministerie van Infrastructuur en Waterstaat_Kennisinstituut voor Mobiliteitsbeleid" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_universityschool_of_economics_and_manageme>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Tilburg University_School of Economics and Management_NETSPAR" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/dienst_justitile_inrichtingen_afdeling_beleid_clus>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Dienst Justitiële Inrichtingen, Afdeling Beleid, Cluster Analyse" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ggdzhz_dienst_gezondheid_jeugd_cluster_regie_onder>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "GGD_ZHZ, Dienst Gezondheid & Jeugd, Cluster Regie, Onderzoek en Advies (ROA)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdam>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Vrije Universiteit Amsterdam" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/school_of_management>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "School of Management" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delftfaculteit_bouwkundede>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technische Universiteit Delft_Faculteit Bouwkunde_Department of Management in the Built Environment" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/springco_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "SpringCo BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_zurichdepartment_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University Zurich_Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/afm_autoriteit_financile_markten_team_consumenteng>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "AFM, Autoriteit Financiële Markten, team Consumentengedrag" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/hanzehogeschool_marian_van_os_centre_of_expertise_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Hanzehogeschool, Marian van Os Centre of Expertise Ondernemen, Lectoraat Arbeidsparticipatie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rekenkamer_rotterdam>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rekenkamer Rotterdam" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrumhuisartsopleiding>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum_Huisartsopleiding" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/katholieke_universiteit_leuven_ku_leuven>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Katholieke Universiteit Leuven (KU Leuven)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitair_medisch_centrum_leiden_afdeling_medis>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universitair Medisch Centrum Leiden, afdeling medische oncologie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/miniw>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "MinIW" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/inspectie_leefomgeving_en_transport>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Inspectie Leefomgeving en Transport" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/informatieproducten_en_programmeren>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Informatieproducten en programmeren" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdamrotterdam_school_of_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Erasmus Universiteit Rotterdam_Rotterdam School of Management" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/the_board_of_regents_of_the_university_of_wisconsi>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "The Board of Regents of the University of Wisconsin System" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_sdwest_fryslndatafrysln>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Súdwest Fryslân_DataFryslân" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_rutgers_wpf>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting Rutgers  WPF" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_arnhem_afdeling_informatie>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Arnhem, Afdeling Informatie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastricht>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Maastricht" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/immigratie_en_naturalisatiedienst_ind_afd_onderzoe>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Immigratie en Naturalisatiedienst (IND), afd. Onderzoek en Analyse" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/oberon>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Oberon" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_chicago_booth_school_of_business>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Chicago, Booth School of Business" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/atlas_research_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Atlas Research B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_amsterdam>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit van Amsterdam" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/uppsala_university_department_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Uppsala University, department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/melbourne_university>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Melbourne University" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_in_fact>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting In Fact" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/berenschot_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Berenschot BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/kadaster_team_research>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Kadaster, Team Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rijksuniversiteit_groningen>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rijksuniversiteit Groningen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_universiteitdepartment_of_social_scienc>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Wageningen Universiteit_Department of Social Sciences" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/samen_twentekennispunt_twente>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Samen Twente_Kennispunt Twente" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/erasmus_universiteit_rotterdam_centre_for_urbanpor>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Erasmus Universiteit Rotterdam, Centre for Urban_Port and Transport Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/crest_center_for_research_in_economics_and_statist>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Crest, Center for research in economics and statistics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_bern_faculty_of_sience_institute_of_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Bern, Faculty of Sience, Institute of Geography" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_eindhoven>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technische Universiteit Eindhoven" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/berenschot_onderzoek_van_berenschot_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Berenschot Onderzoek van Berenschot BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/kennisinstituut_van_medisch_specialisten_bv_kennis>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Kennisinstituut van Medisch Specialisten B.V., Kennisforum Methodologie & Epidemiologie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ministerie_van_economische_zaken_en_klimaat_rijksd>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ministerie van Economische Zaken en Klimaat, Rijksdienst voor Ondernemend Nederland, KME" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technopolis_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technopolis B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/iva_onderwijs>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "IVA Onderwijs" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_instituut_publieke_veiligheid_nederland>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nederlands Instituut Publieke Veiligheid, Nederlandse Academie voor Crisisbeheersing en Brandweerzor" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vanmontfoort_kernteam_onderzoek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "VanMontfoort, Kernteam Onderzoek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/unisydney_university_new_south_wales_business_scho>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "UniSydney, University New South Wales Business School Centre in Population Ageing Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/bocconi_university_centre_for_research_on_social_d>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Bocconi University, Centre for Research on Social Dynamics and Public Policy (Dondena)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/yale_university>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Yale University" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_university_research>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Wageningen University & Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delft>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technische Universiteit Delft" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tno_bouw_en_ondergrond>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "TNO Bouw en Ondergrond" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tilburg_university>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Tilburg University" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/radboud_universiteit_nijmegeninstituut_voor_toegep>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Radboud Universiteit Nijmegen_Instituut voor Toegepaste Sociologie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_bergamo_department_of_management_econom>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University Bergamo, Department of Management, Economics and Quantitative Methods" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/academisch_medisch_centrum_amsterdamafdeling_klini>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Academisch Medisch Centrum Amsterdam_Afdeling Klinische Epidemiologie, Biostatistiek & Bioinformatic" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_onderzoek_multinationale_ondernemingen>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting Onderzoek Multinationale Ondernemingen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/univerity_yaledepartment_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Univerity Yale_Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vrije_universiteit_amsterdamfaculteit_sociale_wete>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Vrije Universiteit Amsterdam_Faculteit Sociale Wetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/economisch_technologisch_instituut_limburg>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Economisch Technologisch Instituut Limburg" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/panteiaeim>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Panteia_EIM" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_sherbrooke>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University Sherbrooke" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tno_inro>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "TNO Inro" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technical_university_of_berlin>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technical University of Berlin" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/onderzoeksinstituut_ivo>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Onderzoeksinstituut IVO" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/academisch_ziekenhuis_maastrichtepidemiologie>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Academisch Ziekenhuis Maastricht_Epidemiologie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_eindhoveneindhoven_centre_>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technische Universiteit Eindhoven_Eindhoven Centre for Innovation" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/expertisecentrum_beroepsonderwijs>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Expertisecentrum beroepsonderwijs" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_stockholm_universitydepartment_of_human>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University Stockholm University_Department of Human Geography" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nederlands_interdisciplinair_demografisch_instituu>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nederlands Interdisciplinair Demografisch Instituut" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/nyenrode_business_universiteit>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Nyenrode Business Universiteit" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_oxford_ukdepartment_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Oxford (UK)_Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universit_de_caen_basse_normandie>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Université de Caen Basse Normandie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_zagrebeconomics_and_business>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Zagreb_Economics and Business" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitt_bielefeld>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universität Bielefeld" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_lausanne_dpartement_dcononntrie_et_d>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Lausanne Département d'écononnétrie et d'économie" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_van_antwerpen_faculteit_sociale_weten>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit van Antwerpen, faculteit Sociale Wetenschappen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_essex_uk>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Essex (UK)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/institute_for_prospective_technological_studies>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Institute for Prospective Technological Studies" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/aston_university_birmingham>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Aston University Birmingham" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_tampere_department_of_social_science>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Tampere, Department of Social Sciences and Humanities" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/goethe_universitt_frankfurt_chair_of_finance_and_e>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Goethe Universität Frankfurt, Chair of Finance and Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_edinburgh>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Edinburgh" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/prismant_bv_onderzoeksafdeling>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Prismant BV Onderzoeksafdeling" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/european_university_institute_florence>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "European University Institute Florence" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/vsup_novo_mesto_faculty_of_business_and_management>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "VSUP Novo Mesto, Faculty of Business and Management Sciences" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cole_polytechnique_fdrale_de_lausanne>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "École Polytechnique Fédérale de Lausanne" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/sociale_verzekeringsbank_centrum_voor_raming_onder>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Sociale Verzekeringsbank, Centrum voor Raming, Onderzoek & Statistiek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_twentebehavioural_management_and_soci>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Twente_Behavioural, Management and Social Science" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/university_of_warsawfaculty_of_economic_sciences>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "University of Warsaw_faculty of economic sciences" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/chinese_university_of_hong_kong>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Chinese University of Hong Kong" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/wageningen_university_wageningen_environmental_res>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Wageningen University, Wageningen Environmental Research" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/dspgroep>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "DSP-groep" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_svv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector SVV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universitt_hohenheim_stuttgart>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universität Hohenheim Stuttgart" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/tno_dutch_centre_for_health_assets>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "TNO Dutch Centre for Health Assets" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/cbs_sector_enr>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "CBS sector ENR" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidenasia_centresfaculteit_humanitie>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Leiden_Asia Centres_Faculteit Humanities" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/ateno>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Ateno" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/institute_national_de_la_sant_et_de_la_recherche_m>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Institute National de la Santé et de la Recherche Médicinale" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/brown_university_department_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Brown University, Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/veiligheidsregio_rotterdamrijnmond_afdeling_onderz>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Veiligheidsregio Rotterdam-Rijnmond, Afdeling Onderzoek en Analyse" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/technische_universiteit_delftfaculteit_techniek_be>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Technische Universiteit Delft_Faculteit Techniek, Bestuur en Management" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/berenschotbeleidsonderzoek_en_evaluatie_agroregeli>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Berenschot_Beleidsonderzoek en evaluatie Agroregelingen" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/hong_kong_baptist_university_economics_department>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Hong Kong Baptist University, Economics Department" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rathenau_instituut>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rathenau Instituut" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/centrum_beleidsadviserend_onderzoek_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Centrum Beleidsadviserend Onderzoek B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_leidenfaculteit_wnthe_leiden_institut>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Leiden_Faculteit W&N_The Leiden Institute of Advanced Computer Science" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/intraval>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Intraval" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/new_york_university_department_of_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "New York University, Department of Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/stichting_cmo_stamm_groningen_drenthe_datateam_cmo>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Stichting CMO STAMM Groningen Drenthe, Data-Team CMO STAMM" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/centraal_bureau_voor_de_statistiek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Centraal Bureau voor de Statistiek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/gemeente_zaanstad_afdeling_onderzoek_en_statistiek>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Gemeente Zaanstad, Afdeling Onderzoek en Statistiek" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rienstra_beleidsonderzoek_en_beleidsadvies_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rienstra Beleidsonderzoek en Beleidsadvies BV" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/london_economics>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "London Economics" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/kplusv_bv>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "KplusV B.V." .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/woonbond_kennis_en_adviescentrum_wka>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Woonbond Kennis en Adviescentrum (WKA)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/universiteit_maastrichtschool_science_and_engineer>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Universiteit Maastricht_School Science and Engineering" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/rekenkamer_metropool_amsterdam_zaanstad_en_amsterd>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Rekenkamer Metropool Amsterdam (Zaanstad en Amsterdam)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/organisation_for_economic_cooperation_and_developm>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Organisation for Economic Co-operation and Development (OECD)" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/fries_sociaal_planbureau>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Fries Sociaal Planbureau" .
 
 <https://w3id.org/odissei/ns/kg/cbs/organization/barcelona_office_for_health_sytems_strenghtening>
-   rdf:type foaf:Organization ;
    rdf:type Organization ;
    foaf:name "Barcelona Office for Health Sytems Strenghtening" .
