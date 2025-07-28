@@ -1,6 +1,7 @@
 # CBS Projects Excel to Turtle Converter
 
 A simple tool to convert CBS project data from Excel format to enriched Turtle/RDF format.
+This tool is intented to update the ['graph:cbs_publications'](https://kg.odissei.nl/odissei/odissei-kg/graphs) 
 
 ## What it does
 
